@@ -27,6 +27,12 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest }) => {
       slug: originalProduct.slug,
       name: originalProduct.name,
       description: originalProduct.description,
+      channelCode: originalProduct.channelCode,
+      firstImage: {
+          code: originalProduct.images[0].code,
+          path: originalProduct.images[0].path,
+          cachedPath: originalProduct.images[0].cachedPath,
+      },
     }
   }
 
