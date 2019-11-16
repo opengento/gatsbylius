@@ -20,7 +20,7 @@ const getAllProductsData = async () => {
 
 const getAllCategoryData = async () => {
   if (!SYLIUS_URL) {
-    return require("./__fixtures__/category.json")
+    return require("./__fixtures__/category.json").self
   }
 
   return got(`${SYLIUS_URL}/shop-api/taxons/category`, {
