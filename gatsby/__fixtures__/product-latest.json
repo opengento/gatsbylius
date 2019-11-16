@@ -1,0 +1,611 @@
+{
+    "items": [
+        {
+            "code": "Slim_fit",
+            "name": "Slim fit",
+            "slug": "slim-fit",
+            "channelCode": "FASHION_WEB",
+            "description": "Laudantium tempora ut veniam dolores facilis. Tenetur consequatur occaecati laboriosam dolor reiciendis sint. Aut voluptatem aut mollitia quidem.\n\nEum deserunt et occaecati accusamus vel. Dignissimos magni nesciunt et iure consectetur velit. Quibusdam possimus officia similique at.\n\nA est non temporibus atque excepturi molestiae amet. Quia accusantium deleniti et vel at. Harum consequatur dolorum incidunt asperiores et fuga corporis.",
+            "shortDescription": "Sunt sit molestias rerum nostrum dolorem. Aliquam est nisi est voluptas. Voluptas sit et rerum.",
+            "averageRating": 4,
+            "taxons": {
+                "main": "womens_jeans",
+                "others": [
+                    "jeans",
+                    "womens_jeans"
+                ]
+            },
+            "variants": {
+                "Slim_fit-variant-0": {
+                    "code": "Slim_fit-variant-0",
+                    "name": "S",
+                    "axis": [
+                        "jeans_size_s"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_s": "Jeans size S"
+                    },
+                    "price": {
+                        "current": 7481,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Slim_fit-variant-1": {
+                    "code": "Slim_fit-variant-1",
+                    "name": "M",
+                    "axis": [
+                        "jeans_size_m"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_m": "Jeans size M"
+                    },
+                    "price": {
+                        "current": 2249,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Slim_fit-variant-2": {
+                    "code": "Slim_fit-variant-2",
+                    "name": "L",
+                    "axis": [
+                        "jeans_size_l"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_l": "Jeans size L"
+                    },
+                    "price": {
+                        "current": 6914,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Slim_fit-variant-3": {
+                    "code": "Slim_fit-variant-3",
+                    "name": "XL",
+                    "axis": [
+                        "jeans_size_xl"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_xl": "Jeans size XL"
+                    },
+                    "price": {
+                        "current": 7209,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Slim_fit-variant-4": {
+                    "code": "Slim_fit-variant-4",
+                    "name": "XXL",
+                    "axis": [
+                        "jeans_size_xxl"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_xxl": "Jeans size XXL"
+                    },
+                    "price": {
+                        "current": 3936,
+                        "currency": "USD"
+                    },
+                    "images": []
+                }
+            },
+            "attributes": [],
+            "associations": [],
+            "images": [
+                {
+                    "code": "main",
+                    "path": "d6/16/bbf4e17ed1f336a956b8e4cda7b8.jpeg",
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/d6/16/bbf4e17ed1f336a956b8e4cda7b8.jpeg"
+                }
+            ],
+            "_links": {
+                "self": {
+                    "href": "/shop-api/products/by-slug/slim-fit"
+                }
+            }
+        },
+        {
+            "code": "Regular_fit_men",
+            "name": "Regular fit men",
+            "slug": "regular-fit-men",
+            "channelCode": "FASHION_WEB",
+            "description": "Culpa non saepe ut optio dolorem dicta voluptatem. Molestiae expedita illo dolor magni. Aspernatur quia rerum ducimus necessitatibus.\n\nConsequuntur voluptatem beatae velit sit qui vel. Veritatis sapiente maxime et molestiae quia est. Rem modi impedit est impedit molestiae corrupti provident. Corporis sit provident id quas architecto veritatis.\n\nOptio officia et molestias possimus soluta. Qui natus magni vel quibusdam sint. Eos officiis quis illo maiores.",
+            "shortDescription": "Voluptas exercitationem voluptas animi neque et expedita ut. Dolor velit labore fugit dicta aut sit rerum distinctio. Culpa magni nemo quia temporibus quo corporis.",
+            "averageRating": 0,
+            "taxons": {
+                "main": "mens_t_shirts",
+                "others": [
+                    "t_shirts",
+                    "mens_t_shirts"
+                ]
+            },
+            "variants": {
+                "Regular_fit_men-variant-0": {
+                    "code": "Regular_fit_men-variant-0",
+                    "name": "S",
+                    "axis": [
+                        "t_shirt_size_s"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_s": "T-shirt size S"
+                    },
+                    "price": {
+                        "current": 7612,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Regular_fit_men-variant-1": {
+                    "code": "Regular_fit_men-variant-1",
+                    "name": "M",
+                    "axis": [
+                        "t_shirt_size_m"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_m": "T-shirt size M"
+                    },
+                    "price": {
+                        "current": 3214,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Regular_fit_men-variant-2": {
+                    "code": "Regular_fit_men-variant-2",
+                    "name": "L",
+                    "axis": [
+                        "t_shirt_size_l"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_l": "T-shirt size L"
+                    },
+                    "price": {
+                        "current": 9087,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Regular_fit_men-variant-3": {
+                    "code": "Regular_fit_men-variant-3",
+                    "name": "XL",
+                    "axis": [
+                        "t_shirt_size_xl"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_xl": "T-shirt size XL"
+                    },
+                    "price": {
+                        "current": 3014,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Regular_fit_men-variant-4": {
+                    "code": "Regular_fit_men-variant-4",
+                    "name": "XXL",
+                    "axis": [
+                        "t_shirt_size_xxl"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_xxl": "T-shirt size XXL"
+                    },
+                    "price": {
+                        "current": 4587,
+                        "currency": "USD"
+                    },
+                    "images": []
+                }
+            },
+            "attributes": [],
+            "associations": [],
+            "images": [
+                {
+                    "code": "main",
+                    "path": "08/69/3f1c8a1e9b6e64486b5dacfc5711.jpeg",
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/08/69/3f1c8a1e9b6e64486b5dacfc5711.jpeg"
+                }
+            ],
+            "_links": {
+                "self": {
+                    "href": "/shop-api/products/by-slug/regular-fit-men"
+                }
+            }
+        },
+        {
+            "code": "Summer_tunic",
+            "name": "Summer tunic",
+            "slug": "summer-tunic",
+            "channelCode": "FASHION_WEB",
+            "description": "Facere aut et qui velit officia non quis. Dicta laudantium nobis possimus accusamus ducimus. Libero vitae voluptas vel ut.\n\nAdipisci provident cupiditate non quis consectetur temporibus. Dicta qui minima sunt quia explicabo eaque sint. Voluptatibus voluptas quasi veniam magni qui ut.\n\nEos in dolore fugit id sed. Nulla tempore praesentium ipsum ullam et occaecati. Perferendis aut asperiores et.",
+            "shortDescription": "Voluptatum rerum eveniet temporibus consequatur est. Eveniet numquam doloribus distinctio qui quod quam. Ex vel quidem id vero.",
+            "averageRating": 3,
+            "taxons": {
+                "main": "dresses",
+                "others": [
+                    "dresses"
+                ]
+            },
+            "variants": {
+                "Summer_tunic-variant-0": {
+                    "code": "Summer_tunic-variant-0",
+                    "name": "S Petite",
+                    "axis": [
+                        "dress_s",
+                        "dress_height_petite"
+                    ],
+                    "nameAxis": {
+                        "dress_s": "Dress size S",
+                        "dress_height_petite": "Dress height Petite"
+                    },
+                    "price": {
+                        "current": 1206,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Summer_tunic-variant-1": {
+                    "code": "Summer_tunic-variant-1",
+                    "name": "S Regular",
+                    "axis": [
+                        "dress_s",
+                        "dress_height_regular"
+                    ],
+                    "nameAxis": {
+                        "dress_s": "Dress size S",
+                        "dress_height_regular": "Dress height Regular"
+                    },
+                    "price": {
+                        "current": 501,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Summer_tunic-variant-2": {
+                    "code": "Summer_tunic-variant-2",
+                    "name": "S Tall",
+                    "axis": [
+                        "dress_s",
+                        "dress_height_tall"
+                    ],
+                    "nameAxis": {
+                        "dress_s": "Dress size S",
+                        "dress_height_tall": "Dress height Tall"
+                    },
+                    "price": {
+                        "current": 7993,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Summer_tunic-variant-3": {
+                    "code": "Summer_tunic-variant-3",
+                    "name": "M Petite",
+                    "axis": [
+                        "dress_m",
+                        "dress_height_petite"
+                    ],
+                    "nameAxis": {
+                        "dress_m": "Dress size M",
+                        "dress_height_petite": "Dress height Petite"
+                    },
+                    "price": {
+                        "current": 527,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Summer_tunic-variant-4": {
+                    "code": "Summer_tunic-variant-4",
+                    "name": "M Regular",
+                    "axis": [
+                        "dress_m",
+                        "dress_height_regular"
+                    ],
+                    "nameAxis": {
+                        "dress_m": "Dress size M",
+                        "dress_height_regular": "Dress height Regular"
+                    },
+                    "price": {
+                        "current": 3696,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Summer_tunic-variant-5": {
+                    "code": "Summer_tunic-variant-5",
+                    "name": "M Tall",
+                    "axis": [
+                        "dress_m",
+                        "dress_height_tall"
+                    ],
+                    "nameAxis": {
+                        "dress_m": "Dress size M",
+                        "dress_height_tall": "Dress height Tall"
+                    },
+                    "price": {
+                        "current": 1270,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Summer_tunic-variant-6": {
+                    "code": "Summer_tunic-variant-6",
+                    "name": "L Petite",
+                    "axis": [
+                        "dress_l",
+                        "dress_height_petite"
+                    ],
+                    "nameAxis": {
+                        "dress_l": "Dress size L",
+                        "dress_height_petite": "Dress height Petite"
+                    },
+                    "price": {
+                        "current": 7280,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Summer_tunic-variant-7": {
+                    "code": "Summer_tunic-variant-7",
+                    "name": "L Regular",
+                    "axis": [
+                        "dress_l",
+                        "dress_height_regular"
+                    ],
+                    "nameAxis": {
+                        "dress_l": "Dress size L",
+                        "dress_height_regular": "Dress height Regular"
+                    },
+                    "price": {
+                        "current": 7050,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Summer_tunic-variant-8": {
+                    "code": "Summer_tunic-variant-8",
+                    "name": "L Tall",
+                    "axis": [
+                        "dress_l",
+                        "dress_height_tall"
+                    ],
+                    "nameAxis": {
+                        "dress_l": "Dress size L",
+                        "dress_height_tall": "Dress height Tall"
+                    },
+                    "price": {
+                        "current": 8510,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Summer_tunic-variant-9": {
+                    "code": "Summer_tunic-variant-9",
+                    "name": "XL Petite",
+                    "axis": [
+                        "dress_xl",
+                        "dress_height_petite"
+                    ],
+                    "nameAxis": {
+                        "dress_xl": "Dress size XL",
+                        "dress_height_petite": "Dress height Petite"
+                    },
+                    "price": {
+                        "current": 3749,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Summer_tunic-variant-10": {
+                    "code": "Summer_tunic-variant-10",
+                    "name": "XL Regular",
+                    "axis": [
+                        "dress_xl",
+                        "dress_height_regular"
+                    ],
+                    "nameAxis": {
+                        "dress_xl": "Dress size XL",
+                        "dress_height_regular": "Dress height Regular"
+                    },
+                    "price": {
+                        "current": 1527,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Summer_tunic-variant-11": {
+                    "code": "Summer_tunic-variant-11",
+                    "name": "XL Tall",
+                    "axis": [
+                        "dress_xl",
+                        "dress_height_tall"
+                    ],
+                    "nameAxis": {
+                        "dress_xl": "Dress size XL",
+                        "dress_height_tall": "Dress height Tall"
+                    },
+                    "price": {
+                        "current": 6388,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Summer_tunic-variant-12": {
+                    "code": "Summer_tunic-variant-12",
+                    "name": "XXL Petite",
+                    "axis": [
+                        "dress_xxl",
+                        "dress_height_petite"
+                    ],
+                    "nameAxis": {
+                        "dress_xxl": "Dress size XXL",
+                        "dress_height_petite": "Dress height Petite"
+                    },
+                    "price": {
+                        "current": 9574,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Summer_tunic-variant-13": {
+                    "code": "Summer_tunic-variant-13",
+                    "name": "XXL Regular",
+                    "axis": [
+                        "dress_xxl",
+                        "dress_height_regular"
+                    ],
+                    "nameAxis": {
+                        "dress_xxl": "Dress size XXL",
+                        "dress_height_regular": "Dress height Regular"
+                    },
+                    "price": {
+                        "current": 7255,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Summer_tunic-variant-14": {
+                    "code": "Summer_tunic-variant-14",
+                    "name": "XXL Tall",
+                    "axis": [
+                        "dress_xxl",
+                        "dress_height_tall"
+                    ],
+                    "nameAxis": {
+                        "dress_xxl": "Dress size XXL",
+                        "dress_height_tall": "Dress height Tall"
+                    },
+                    "price": {
+                        "current": 3923,
+                        "currency": "USD"
+                    },
+                    "images": []
+                }
+            },
+            "attributes": [],
+            "associations": [],
+            "images": [
+                {
+                    "code": "main",
+                    "path": "d4/b6/b2511102701b4c623213969a25bb.jpeg",
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/d4/b6/b2511102701b4c623213969a25bb.jpeg"
+                }
+            ],
+            "_links": {
+                "self": {
+                    "href": "/shop-api/products/by-slug/summer-tunic"
+                }
+            }
+        },
+        {
+            "code": "Slim_fit_elegant",
+            "name": "Slim fit elegant",
+            "slug": "slim-fit-elegant",
+            "channelCode": "FASHION_WEB",
+            "description": "Est ducimus consequatur aut cupiditate. Laborum possimus doloremque ut ut perferendis assumenda. Eligendi expedita eum excepturi sed libero. Molestiae at laboriosam necessitatibus aut unde necessitatibus numquam.\n\nSequi est deleniti ducimus soluta. Pariatur nihil et in et consequuntur libero eveniet. Et commodi cum occaecati modi.\n\nNihil amet sed quod corrupti mollitia. Doloribus similique deleniti nisi illo voluptatibus. Est voluptatem sapiente numquam voluptatem. Inventore deleniti qui aut eum.",
+            "shortDescription": "Sit et et quia ullam voluptatem vitae. Inventore porro inventore deserunt qui velit vero nostrum. Ex quo consectetur consequatur ea magnam est laudantium nisi. Et commodi quae qui recusandae molestiae aliquam nulla.",
+            "averageRating": 0,
+            "taxons": {
+                "main": "mens_jeans",
+                "others": [
+                    "jeans",
+                    "mens_jeans"
+                ]
+            },
+            "variants": {
+                "Slim_fit_elegant-variant-0": {
+                    "code": "Slim_fit_elegant-variant-0",
+                    "name": "S",
+                    "axis": [
+                        "jeans_size_s"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_s": "Jeans size S"
+                    },
+                    "price": {
+                        "current": 7201,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Slim_fit_elegant-variant-1": {
+                    "code": "Slim_fit_elegant-variant-1",
+                    "name": "M",
+                    "axis": [
+                        "jeans_size_m"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_m": "Jeans size M"
+                    },
+                    "price": {
+                        "current": 8717,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Slim_fit_elegant-variant-2": {
+                    "code": "Slim_fit_elegant-variant-2",
+                    "name": "L",
+                    "axis": [
+                        "jeans_size_l"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_l": "Jeans size L"
+                    },
+                    "price": {
+                        "current": 4005,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Slim_fit_elegant-variant-3": {
+                    "code": "Slim_fit_elegant-variant-3",
+                    "name": "XL",
+                    "axis": [
+                        "jeans_size_xl"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_xl": "Jeans size XL"
+                    },
+                    "price": {
+                        "current": 5520,
+                        "currency": "USD"
+                    },
+                    "images": []
+                },
+                "Slim_fit_elegant-variant-4": {
+                    "code": "Slim_fit_elegant-variant-4",
+                    "name": "XXL",
+                    "axis": [
+                        "jeans_size_xxl"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_xxl": "Jeans size XXL"
+                    },
+                    "price": {
+                        "current": 8881,
+                        "currency": "USD"
+                    },
+                    "images": []
+                }
+            },
+            "attributes": [],
+            "associations": [],
+            "images": [
+                {
+                    "code": "main",
+                    "path": "aa/2a/19bdfe3ece036098bd6075c7d79c.jpeg",
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/aa/2a/19bdfe3ece036098bd6075c7d79c.jpeg"
+                }
+            ],
+            "_links": {
+                "self": {
+                    "href": "/shop-api/products/by-slug/slim-fit-elegant"
+                }
+            }
+        }
+    ]
+}
