@@ -1,0 +1,114 @@
+{
+    "self": {
+        "code": "category",
+        "name": "Category",
+        "slug": "category",
+        "description": "Quis ullam recusandae deserunt et itaque. Esse itaque vel facere eum et sed ullam asperiores. Consequatur sit autem et. Sint eaque sequi sed adipisci eveniet.",
+        "position": 0,
+        "children": [
+            {
+                "code": "t_shirts",
+                "name": "T-shirts",
+                "slug": "category/t-shirts",
+                "description": "Excepturi quibusdam ab unde cumque. Eaque vel sed sapiente esse.",
+                "position": 0,
+                "children": [
+                    {
+                        "code": "mens_t_shirts",
+                        "name": "Men",
+                        "slug": "t-shirts/men",
+                        "description": "Unde sit accusamus alias explicabo eos laborum quos voluptas. Velit ducimus molestiae quisquam dolore quibusdam quos laboriosam. Exercitationem libero magnam veniam ea sed repellendus. Ratione facilis nobis qui ut aut optio deleniti.",
+                        "position": 0,
+                        "children": [],
+                        "images": []
+                    },
+                    {
+                        "code": "womens_t_shirts",
+                        "name": "Women",
+                        "slug": "t-shirts/women",
+                        "description": "Voluptatem est iure modi quaerat. Ad asperiores in nam omnis voluptas soluta. Libero quidem quam possimus ea voluptas ducimus.",
+                        "position": 1,
+                        "children": [],
+                        "images": []
+                    }
+                ],
+                "images": []
+            },
+            {
+                "code": "caps",
+                "name": "Caps",
+                "slug": "category/caps",
+                "description": "Ut dolores dolores in ullam et eveniet. Nihil cum quo odit libero. Debitis voluptas voluptatum explicabo quae voluptate.",
+                "position": 1,
+                "children": [
+                    {
+                        "code": "simple_caps",
+                        "name": "Simple",
+                        "slug": "caps/simple",
+                        "description": "Harum similique sint adipisci laboriosam. Temporibus molestiae ad quaerat qui consectetur eaque omnis.",
+                        "position": 0,
+                        "children": [],
+                        "images": []
+                    },
+                    {
+                        "code": "caps_with_pompons",
+                        "name": "With pompons",
+                        "slug": "caps/with-pompons",
+                        "description": "Quo et perferendis dicta assumenda sunt ad soluta. Dolor incidunt nihil et animi et sed ea. Rem sunt quo in voluptatem corporis adipisci.",
+                        "position": 1,
+                        "children": [],
+                        "images": []
+                    }
+                ],
+                "images": []
+            },
+            {
+                "code": "dresses",
+                "name": "Dresses",
+                "slug": "category/dresses",
+                "description": "Voluptatem reiciendis repellendus modi consectetur amet expedita et. Minus nostrum ut maiores id quia. Voluptatem rerum debitis neque cum.",
+                "position": 2,
+                "children": [],
+                "images": []
+            },
+            {
+                "code": "jeans",
+                "name": "Jeans",
+                "slug": "category/jeans",
+                "description": "Nulla voluptas nostrum repudiandae optio id praesentium autem. Quasi in dolor est eaque. Suscipit nisi eum eligendi mollitia fugit. Sit voluptatum accusamus praesentium dolor quam.",
+                "position": 3,
+                "children": [
+                    {
+                        "code": "mens_jeans",
+                        "name": "Men",
+                        "slug": "jeans/men",
+                        "description": "Qui dolorum dignissimos quia incidunt rem animi. Minima et expedita accusantium saepe quae.",
+                        "position": 0,
+                        "children": [],
+                        "images": []
+                    },
+                    {
+                        "code": "womens_jeans",
+                        "name": "Women",
+                        "slug": "jeans/women",
+                        "description": "Animi vel quas doloribus quas aut in tenetur unde. Cumque minima dolorum est veritatis rerum neque accusantium ea. Non ipsam velit sint.",
+                        "position": 1,
+                        "children": [],
+                        "images": []
+                    }
+                ],
+                "images": []
+            }
+        ],
+        "images": []
+    },
+    "parentTree": {
+        "code": "category",
+        "name": "Category",
+        "slug": "category",
+        "description": "Quis ullam recusandae deserunt et itaque. Esse itaque vel facere eum et sed ullam asperiores. Consequatur sit autem et. Sint eaque sequi sed adipisci eveniet.",
+        "position": 0,
+        "children": [],
+        "images": []
+    }
+}
