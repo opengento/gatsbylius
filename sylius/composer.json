@@ -18,6 +18,8 @@
     ],
     "require": {
         "php": "^7.2",
+        "nelmio/cors-bundle": "^2.0",
+        "sylius/shop-api-plugin": "^1.0@RC",
         "sylius/sylius": "~1.6.0",
         "symfony/dotenv": "^4.3",
         "symfony/flex": "^1.2"
