@@ -47,6 +47,21 @@ services:
       traefik.docker.network: "traefik"
       traefik.frontend.rule: "Host:pma.sylius.test"
 
+  gatsby:
+    build: docker/gatsby
+    expose:
+      - 8000
+    ports:
+      - 8000
+    volumes:
+      - ./gatsby:/home/gatsby
+      - ./sylius:/home/sylius
+    command: tail -f /dev/null
+    labels:
+      traefik.docker.network: "traefik"
+      traefik.frontend.rule: "Host:gatsby.test"
+      traefik.port: "8000"
+
 volumes:
   db-data:
     driver: local
