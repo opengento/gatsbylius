@@ -47,6 +47,15 @@ exports.sourceNodes = async ({
     }
   }
 
+  const adaptVariants = (variants) => {
+    return Object.values(variants).map(({name, price}) => {
+      return {
+        name: name,
+        price: price
+      }
+    })
+  }
+
   const adaptProduct = originalProduct => {
     return {
       code: originalProduct.code,
@@ -54,7 +63,9 @@ exports.sourceNodes = async ({
       name: originalProduct.name,
       description: originalProduct.description,
       channelCode: originalProduct.channelCode,
+      averageRating: originalProduct.averageRating,
       firstImage: originalProduct.images[0].cachedPath,
+      variants: adaptVariants(originalProduct.variants),
     }
   }
 
