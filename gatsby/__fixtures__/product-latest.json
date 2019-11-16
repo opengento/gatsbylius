@@ -98,7 +98,7 @@
                 {
                     "code": "main",
                     "path": "d6/16/bbf4e17ed1f336a956b8e4cda7b8.jpeg",
-                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/d6/16/bbf4e17ed1f336a956b8e4cda7b8.jpeg"
+                    "cachedPath": "https://picsum.photos/1200/800"
                 }
             ],
             "_links": {
@@ -205,7 +205,7 @@
                 {
                     "code": "main",
                     "path": "08/69/3f1c8a1e9b6e64486b5dacfc5711.jpeg",
-                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/08/69/3f1c8a1e9b6e64486b5dacfc5711.jpeg"
+                    "cachedPath": "https://picsum.photos/1200/800"
                 }
             ],
             "_links": {
@@ -491,7 +491,7 @@
                 {
                     "code": "main",
                     "path": "d4/b6/b2511102701b4c623213969a25bb.jpeg",
-                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/d4/b6/b2511102701b4c623213969a25bb.jpeg"
+                    "cachedPath": "https://picsum.photos/1200/800"
                 }
             ],
             "_links": {
@@ -598,7 +598,7 @@
                 {
                     "code": "main",
                     "path": "aa/2a/19bdfe3ece036098bd6075c7d79c.jpeg",
-                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/aa/2a/19bdfe3ece036098bd6075c7d79c.jpeg"
+                    "cachedPath": "https://picsum.photos/1200/800"
                 }
             ],
             "_links": {

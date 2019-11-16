@@ -1,9 +1,10 @@
 import React from "react"
 import { Link } from "gatsby"
+import Layout from "../components/layout"
 
 const Category = props => {
   return (
-    <div>
+    <Layout>
       <h1>{props.data.category.name}</h1>
       <ul>
         {props.data.allCategory.edges.map(({ node }) => {
@@ -14,7 +15,7 @@ const Category = props => {
           )
         })}
       </ul>
-    </div>
+    </Layout>
   )
 }
 

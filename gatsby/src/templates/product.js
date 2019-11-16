@@ -1,10 +1,11 @@
 import React from "react"
 import { Link } from "gatsby"
+import Layout from "../components/layout"
 import Img from "gatsby-image"
 
 const Product = props => {
   return (
-    <div class="product-page">
+    <Layout>
       <div class="product-informations">
         <h1 class="product-name">{props.data.product.name}</h1>
         <Img fixed={props.data.product.localImage.childImageSharp.fixed} />
@@ -14,16 +15,19 @@ const Product = props => {
         </p>
         <p>{props.data.product.description}</p>
       </div>
-      <ul>
-        {props.data.allProduct.nodes.map(product => {
-          return (
-            <li key={product.slug}>
-              <Link to={`/product/${product.slug}`}>{product.name}</Link>
-            </li>
-          )
-        })}
-      </ul>
-    </div>
+      <div class="cross-sell">
+          <h3>Autres produits</h3>
+          <ul>
+            {props.data.allProduct.nodes.map(product => {
+              return (
+                <li key={product.slug}>
+                  <Link to={`/product/${product.slug}`}>{product.name}</Link>
+                </li>
+              )
+            })}
+          </ul>
+      </div>
+    </Layout>
   )
 }
 
