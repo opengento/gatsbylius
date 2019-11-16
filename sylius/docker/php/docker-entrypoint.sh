@@ -15,6 +15,8 @@ if [ "$1" = 'php-fpm' ] || [ "$1" = 'bin/console' ]; then
 		composer install --prefer-dist --no-progress --no-suggest --no-interaction
 		bin/console assets:install --no-interaction
 		bin/console sylius:theme:assets:install public --no-interaction
+		bin/console sylius:fixtures:load --no-interaction
+		mkdir /srv/sylius/public/media/image
 	fi
 
 	until bin/console doctrine:query:sql "select 1" >/dev/null 2>&1; do
