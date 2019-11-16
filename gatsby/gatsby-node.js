@@ -18,8 +18,34 @@ const getAllProductsData = async () => {
   }).then(response => response.body)
 }
 
-exports.sourceNodes = ({ actions, createNodeId, createContentDigest }) => {
+const getAllCategoryData = async () => {
+  if (!SYLIUS_URL) {
+    return require("./__fixtures__/category.json")
+  }
+
+  return got(`${SYLIUS_URL}/shop-api/taxons/category`, {
+    json: true,
+  }).then(response => response.body.self)
+}
+
+exports.sourceNodes = async ({
+  actions,
+  createNodeId,
+  createContentDigest,
+}) => {
   const { createNode } = actions
+
+  const adaptCategory = originalCategory => {
+    return {
+      code: originalCategory.code,
+      name: originalCategory.name,
+      slug: originalCategory.slug,
+      description: originalCategory.description,
+      position: originalCategory.position,
+      children: originalCategory.children,
+      images: originalCategory.images,
+    }
+  }
 
   const adaptProduct = originalProduct => {
     return {
@@ -28,6 +54,31 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest }) => {
       name: originalProduct.name,
       description: originalProduct.description,
     }
+  }
+
+  const createNodeFromCategory = categoryData => {
+    const nodeContent = JSON.stringify(categoryData)
+
+    const childrenIds = categoryData.children.map(categoryData => {
+      return createNodeFromCategory(categoryData)
+    })
+
+    const nodeMeta = {
+      id: createNodeId(`category-${categoryData.code}`),
+      parent: null,
+      children: childrenIds,
+      internal: {
+        type: `Category`,
+        mediaType: `text/html`,
+        content: nodeContent,
+        contentDigest: createContentDigest(categoryData),
+      },
+    }
+
+    const node = Object.assign({}, categoryData, nodeMeta)
+    createNode(node)
+
+    return node.id
   }
 
   const createNodeFromProduct = productData => {
@@ -49,8 +100,15 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest }) => {
     createNode(node)
   }
 
+  await getAllCategoryData().then(({ children }) => {
+    children.forEach(originalCategoryData => {
+      const categoryData = adaptCategory(originalCategoryData)
+      createNodeFromCategory(categoryData)
+    })
+  })
+
   // Data can come from anywhere, but for now create it manually
-  return getAllProductsData().then(({ items }) => {
+  await getAllProductsData().then(({ items }) => {
     items.forEach(originalProductData => {
       const productData = adaptProduct(originalProductData)
       createNodeFromProduct(productData)
@@ -61,17 +119,27 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest }) => {
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
   const blogPostTemplate = path.resolve(`src/templates/product.js`)
+  const categoryTemplate = path.resolve(`src/templates/category.js`)
   // Query for markdown nodes to use in creating pages.
   // You can query for whatever data you want to create pages for e.g.
   // products, portfolio items, landing pages, etc.
   // Variables can be added as the second function parameter
   return graphql(
     `
-      query loadProductsQuery {
+      query loadDataQuery {
         allProduct {
           nodes {
             code
             slug
+          }
+        }
+        allCategory {
+          edges {
+            node {
+              id
+              code
+              slug
+            }
           }
         }
       }
@@ -80,6 +148,25 @@ exports.createPages = ({ graphql, actions }) => {
     if (result.errors) {
       throw result.errors
     }
+
+    result.data.allCategory.edges.forEach(({ node }) => {
+      createPage({
+        // Path for this page — required
+        path: `/categories/${node.code}`,
+        component: categoryTemplate,
+        context: {
+          code: node.code,
+          // Add optional context data to be inserted
+          // as props into the page component..
+          //
+          // The context data can also be used as
+          // arguments to the page GraphQL query.
+          //
+          // The page "path" is always available as a GraphQL
+          // argument.
+        },
+      })
+    })
 
     // Create product post pages.
     result.data.allProduct.nodes.forEach(node => {
