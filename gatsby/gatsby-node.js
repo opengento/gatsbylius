@@ -4,7 +4,19 @@
  * See: https://www.gatsbyjs.org/docs/node-apis/
  */
 const path = require(`path`)
-const productListResponse = require("./__fixtures__/product-latest.json")
+const got = require("got")
+
+const SYLIUS_URL = process.env.GATSBY_SYLIUS_URL
+
+const getAllProductsData = async () => {
+  if (!SYLIUS_URL) {
+    return require("./__fixtures__/product-latest.json")
+  }
+
+  return got(`${SYLIUS_URL}/shop-api/product-latest/?limit=100000`, {
+    json: true,
+  }).then(response => response.body)
+}
 
 exports.sourceNodes = ({ actions, createNodeId, createContentDigest }) => {
   const { createNode } = actions
@@ -38,9 +50,11 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest }) => {
   }
 
   // Data can come from anywhere, but for now create it manually
-  productListResponse.items.forEach(originalProductData => {
-    const productData = adaptProduct(originalProductData)
-    createNodeFromProduct(productData)
+  return getAllProductsData().then(({ items }) => {
+    items.forEach(originalProductData => {
+      const productData = adaptProduct(originalProductData)
+      createNodeFromProduct(productData)
+    })
   })
 }
 
@@ -74,7 +88,7 @@ exports.createPages = ({ graphql, actions }) => {
         path: `/product/${node.slug}`,
         component: blogPostTemplate,
         context: {
-            slug: node.slug
+          slug: node.slug,
           // Add optional context data to be inserted
           // as props into the page component..
           //
