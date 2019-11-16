@@ -14,18 +14,39 @@ import "./layout.css"
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
-    query SiteTitleQuery {
+    query SiteTitleQuery($code: String) {
       site {
         siteMetadata {
           title
+          menuLinks {
+            name
+            link
+          }            
+        }
+      }
+
+      category(code: { eq: $code }) {
+        code
+        slug
+        name
+      }
+  
+      allCategory(filter: {level: {eq: 0}}) {
+        edges {
+          node {
+            id
+            code
+            slug
+            name
+          }
         }
       }
     }
-  `)
+    `)
 
   return (
     <>
-      <Header siteTitle={data.site.siteMetadata.title} />
+      <Header menuLinks={data.allCategory.edges} siteTitle={data.site.siteMetadata.title} />
       <div
         style={{
           margin: `0 auto`,

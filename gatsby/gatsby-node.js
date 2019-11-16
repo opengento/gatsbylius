@@ -58,11 +58,11 @@ exports.sourceNodes = async ({
     }
   }
 
-  const createNodeFromCategory = categoryData => {
+  const createNodeFromCategory = (categoryData, level = 0) => {
     const nodeContent = JSON.stringify(categoryData)
 
     const childrenIds = categoryData.children.map(categoryData => {
-      return createNodeFromCategory(categoryData)
+      return createNodeFromCategory(categoryData, level+1)
     })
 
     const nodeMeta = {
@@ -75,6 +75,7 @@ exports.sourceNodes = async ({
         content: nodeContent,
         contentDigest: createContentDigest(categoryData),
       },
+      level
     }
 
     const node = Object.assign({}, categoryData, nodeMeta)

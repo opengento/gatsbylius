@@ -9,6 +9,16 @@ const IndexPage = ({ data }) => (
   <Layout>
     <SEO title="Home" />
     <h1>Hello world</h1>
+
+    <h2>Nos produits</h2>
+    <ul>
+      {data.allProduct.nodes.map(product => (
+        <li>
+          <Link to={`/product/${product.slug}`}>{product.name}</Link>
+        </li>
+      ))}
+    </ul>
+
     <h2>Nos catégories</h2>
     <ul>
         {data.allCategory.edges.map(({ node }) => {
@@ -20,14 +30,6 @@ const IndexPage = ({ data }) => (
         })}
     </ul>
 
-    <h2>Nos produits</h2>
-    <ul>
-      {data.allProduct.nodes.map(product => (
-        <li>
-          <Link to={`/product/${product.slug}`}>{product.name}</Link>
-        </li>
-      ))}
-    </ul>
   </Layout>
 )
 
