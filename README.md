@@ -24,3 +24,13 @@ openssl pkey -in config/jwt/private.pem -out config/jwt/public.pem -pubout
 ```
 
 (Source : https://github.com/lexik/LexikJWTAuthenticationBundle/blob/master/Resources/doc/index.md#generate-the-ssh-keys)
+
+## Erreurs communes
+
+### Si composer génère une erreur de mémoire
+
+Préfixer la commande avec `COMPOSER_MEMORY_LIMIT=-1` :
+
+```
+COMPOSER_MEMORY_LIMIT=-1 composer install
+```
