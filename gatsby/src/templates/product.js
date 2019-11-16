@@ -1,14 +1,18 @@
 import React from "react"
 import { Link } from "gatsby"
+import Img from "gatsby-image"
 
 const Product = props => {
   return (
     <div class="product-page">
-       <div class="product-informations">
-          <h1 class="product-name">{props.data.product.name}</h1>
-          <img src={props.data.product.firstImage.cachedPath} alt={props.data.product.firstImage.code} />
-          <p>Channel: {props.data.product.channelCode} | <small>Code: {props.data.product.code}</small></p>
-          <p>{props.data.product.description}</p>
+      <div class="product-informations">
+        <h1 class="product-name">{props.data.product.name}</h1>
+        <Img fixed={props.data.product.localImage.childImageSharp.fixed} />
+        <p>
+          Channel: {props.data.product.channelCode} |{" "}
+          <small>Code: {props.data.product.code}</small>
+        </p>
+        <p>{props.data.product.description}</p>
       </div>
       <ul>
         {props.data.allProduct.nodes.map(product => {
@@ -33,10 +37,14 @@ export const query = graphql`
       name
       description
       channelCode
-      firstImage {
-        code
-        path
-        cachedPath
+      localImage {
+        childImageSharp {
+          # Specify the image processing specifications right in the query.
+          # Makes it trivial to update as your page's design changes.
+          fixed(width: 125, height: 125) {
+            ...GatsbyImageSharpFixed
+          }
+        }
       }
     }
 

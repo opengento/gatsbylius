@@ -54,11 +54,7 @@ exports.sourceNodes = async ({
       name: originalProduct.name,
       description: originalProduct.description,
       channelCode: originalProduct.channelCode,
-      firstImage: {
-          code: originalProduct.images[0].code,
-          path: originalProduct.images[0].path,
-          cachedPath: originalProduct.images[0].cachedPath,
-      },
+      firstImage: originalProduct.images[0].cachedPath,
     }
   }
 
@@ -87,7 +83,7 @@ exports.sourceNodes = async ({
     return node.id
   }
 
-  const createNodeFromProduct = productData => {
+  const createNodeFromProduct = async productData => {
     const nodeContent = JSON.stringify(productData)
 
     const nodeMeta = {
@@ -103,7 +99,7 @@ exports.sourceNodes = async ({
     }
 
     const node = Object.assign({}, productData, nodeMeta)
-    createNode(node)
+    return await createNode(node)
   }
 
   await getAllCategoryData().then(({ children }) => {
@@ -115,9 +111,13 @@ exports.sourceNodes = async ({
 
   // Data can come from anywhere, but for now create it manually
   await getAllProductsData().then(({ items }) => {
-    items.forEach(originalProductData => {
-      const productData = adaptProduct(originalProductData)
-      createNodeFromProduct(productData)
+    return getAllProductsData().then(({ items }) => {
+      return Promise.all(
+        items.map(originalProductData => {
+          const productData = adaptProduct(originalProductData)
+          return createNodeFromProduct(productData)
+        })
+      )
     })
   })
 }
