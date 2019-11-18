@@ -2,7 +2,7 @@ import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 
-const Header = ({ siteTitle }) => (
+const Header = ({ siteTitle, menuLinks }) => (
   <header
     style={{
       background: `rebeccapurple`,
@@ -27,6 +27,23 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
         </Link>
       </h1>
+      <nav>
+        <ul style={{ display: "flex", flex: 1 }}>
+        {menuLinks.map(({ node }) => {
+          return (
+            <li 
+            key={node.code}
+            style={{
+              listStyleType: `none`,
+              padding: `1rem`,
+            }}
+            >
+              <Link to={`/categories/${node.code}`} style={{ color: `white` }}>{node.name}</Link>
+            </li>
+          )
+        })}
+      </ul>
+      </nav>
     </div>
   </header>
 )
