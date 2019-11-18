@@ -27,7 +27,7 @@
                     },
                     "price": {
                         "current": 7481,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -42,7 +42,7 @@
                     },
                     "price": {
                         "current": 2249,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -57,7 +57,7 @@
                     },
                     "price": {
                         "current": 6914,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -72,7 +72,7 @@
                     },
                     "price": {
                         "current": 7209,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -87,7 +87,7 @@
                     },
                     "price": {
                         "current": 3936,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 }
@@ -98,7 +98,7 @@
                 {
                     "code": "main",
                     "path": "d6/16/bbf4e17ed1f336a956b8e4cda7b8.jpeg",
-                    "cachedPath": "https://picsum.photos/1200/800"
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/d6/16/bbf4e17ed1f336a956b8e4cda7b8.jpeg"
                 }
             ],
             "_links": {
@@ -134,7 +134,7 @@
                     },
                     "price": {
                         "current": 7612,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -149,7 +149,7 @@
                     },
                     "price": {
                         "current": 3214,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -164,7 +164,7 @@
                     },
                     "price": {
                         "current": 9087,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -179,7 +179,7 @@
                     },
                     "price": {
                         "current": 3014,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -194,7 +194,7 @@
                     },
                     "price": {
                         "current": 4587,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 }
@@ -205,7 +205,7 @@
                 {
                     "code": "main",
                     "path": "08/69/3f1c8a1e9b6e64486b5dacfc5711.jpeg",
-                    "cachedPath": "https://picsum.photos/1200/800"
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/08/69/3f1c8a1e9b6e64486b5dacfc5711.jpeg"
                 }
             ],
             "_links": {
@@ -242,7 +242,7 @@
                     },
                     "price": {
                         "current": 1206,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -259,7 +259,7 @@
                     },
                     "price": {
                         "current": 501,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -276,7 +276,7 @@
                     },
                     "price": {
                         "current": 7993,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -293,7 +293,7 @@
                     },
                     "price": {
                         "current": 527,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -310,7 +310,7 @@
                     },
                     "price": {
                         "current": 3696,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -327,7 +327,7 @@
                     },
                     "price": {
                         "current": 1270,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -344,7 +344,7 @@
                     },
                     "price": {
                         "current": 7280,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -361,7 +361,7 @@
                     },
                     "price": {
                         "current": 7050,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -378,7 +378,7 @@
                     },
                     "price": {
                         "current": 8510,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -395,7 +395,7 @@
                     },
                     "price": {
                         "current": 3749,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -412,7 +412,7 @@
                     },
                     "price": {
                         "current": 1527,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -429,7 +429,7 @@
                     },
                     "price": {
                         "current": 6388,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -446,7 +446,7 @@
                     },
                     "price": {
                         "current": 9574,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -463,7 +463,7 @@
                     },
                     "price": {
                         "current": 7255,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -480,7 +480,7 @@
                     },
                     "price": {
                         "current": 3923,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 }
@@ -491,7 +491,7 @@
                 {
                     "code": "main",
                     "path": "d4/b6/b2511102701b4c623213969a25bb.jpeg",
-                    "cachedPath": "https://picsum.photos/1200/800"
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/d4/b6/b2511102701b4c623213969a25bb.jpeg"
                 }
             ],
             "_links": {
@@ -527,7 +527,7 @@
                     },
                     "price": {
                         "current": 7201,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -542,7 +542,7 @@
                     },
                     "price": {
                         "current": 8717,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -557,7 +557,7 @@
                     },
                     "price": {
                         "current": 4005,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -572,7 +572,7 @@
                     },
                     "price": {
                         "current": 5520,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 },
@@ -587,7 +587,7 @@
                     },
                     "price": {
                         "current": 8881,
-                        "currency": "USD"
+                        "currency": "EUR"
                     },
                     "images": []
                 }
@@ -598,12 +598,2456 @@
                 {
                     "code": "main",
                     "path": "aa/2a/19bdfe3ece036098bd6075c7d79c.jpeg",
-                    "cachedPath": "https://picsum.photos/1200/800"
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/aa/2a/19bdfe3ece036098bd6075c7d79c.jpeg"
                 }
             ],
             "_links": {
                 "self": {
                     "href": "/shop-api/products/by-slug/slim-fit-elegant"
+                }
+            }
+        },
+        {
+            "code": "Simple_cap",
+            "name": "Simple cap",
+            "slug": "simple-cap",
+            "channelCode": "FASHION_WEB",
+            "description": "Sapiente maiores voluptatem aut velit consequatur nostrum. Fugiat voluptatibus quisquam ullam repellat temporibus corporis. Vel nostrum vero aspernatur et eum. Itaque neque enim quasi reprehenderit et.\n\nDeserunt qui aliquam repellat. Molestias non voluptatem ut quis consequuntur accusamus quis. Et sunt sunt ipsam perspiciatis alias nam id. Quibusdam qui quaerat aut nihil nemo facere. Enim aut accusantium quasi occaecati neque inventore sint.\n\nSed minima minus nihil est omnis voluptas fugit placeat. Omnis sed reprehenderit architecto. Sed quia suscipit est ea corrupti quo.",
+            "shortDescription": "Molestias sunt et omnis corrupti voluptatem. Atque sit autem qui odit consequuntur laborum vitae.",
+            "averageRating": 0,
+            "taxons": {
+                "main": "simple_caps",
+                "others": [
+                    "caps",
+                    "simple_caps"
+                ]
+            },
+            "variants": {
+                "Simple_cap-variant-0": {
+                    "code": "Simple_cap-variant-0",
+                    "name": "",
+                    "axis": [],
+                    "nameAxis": {},
+                    "price": {
+                        "current": 8022,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                }
+            },
+            "attributes": [],
+            "associations": [],
+            "images": [
+                {
+                    "code": "main",
+                    "path": "65/a3/ff5803fc2eb76bc8a519100075af.jpeg",
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/65/a3/ff5803fc2eb76bc8a519100075af.jpeg"
+                }
+            ],
+            "_links": {
+                "self": {
+                    "href": "/shop-api/products/by-slug/simple-cap"
+                }
+            }
+        },
+        {
+            "code": "Regular_Fit_V_neck_woman",
+            "name": "Regular Fit V-neck woman",
+            "slug": "regular-fit-v-neck-woman",
+            "channelCode": "FASHION_WEB",
+            "description": "Porro quisquam ad architecto aut aspernatur molestiae. Ut ut dolore assumenda et. Expedita voluptatem fuga voluptatem in. Ipsam corrupti sunt voluptatem quo quibusdam cupiditate.\n\nVoluptas soluta veritatis voluptatem. Laborum voluptatem ut totam eos molestias et voluptate aliquam. Ut sit repellat consequuntur laboriosam vero voluptatibus. Sed ut id deleniti facere perspiciatis architecto repellendus culpa.\n\nQuo sunt labore omnis laudantium rerum fugit. Quo est natus expedita sunt temporibus ipsum. Omnis consectetur voluptatibus tempora et totam voluptas mollitia veniam. Id nobis illum totam qui est perferendis vero.",
+            "shortDescription": "Dolorum quibusdam ratione corrupti dolores hic nostrum. Fugit dolore maiores sit quia. Rerum ut modi aspernatur vel excepturi sit velit. Sit rerum et necessitatibus fugiat.",
+            "averageRating": 2,
+            "taxons": {
+                "main": "womens_t_shirts",
+                "others": [
+                    "t_shirts",
+                    "womens_t_shirts"
+                ]
+            },
+            "variants": {
+                "Regular_Fit_V_neck_woman-variant-0": {
+                    "code": "Regular_Fit_V_neck_woman-variant-0",
+                    "name": "S",
+                    "axis": [
+                        "t_shirt_size_s"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_s": "T-shirt size S"
+                    },
+                    "price": {
+                        "current": 6754,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Regular_Fit_V_neck_woman-variant-1": {
+                    "code": "Regular_Fit_V_neck_woman-variant-1",
+                    "name": "M",
+                    "axis": [
+                        "t_shirt_size_m"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_m": "T-shirt size M"
+                    },
+                    "price": {
+                        "current": 6181,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Regular_Fit_V_neck_woman-variant-2": {
+                    "code": "Regular_Fit_V_neck_woman-variant-2",
+                    "name": "L",
+                    "axis": [
+                        "t_shirt_size_l"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_l": "T-shirt size L"
+                    },
+                    "price": {
+                        "current": 1544,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Regular_Fit_V_neck_woman-variant-3": {
+                    "code": "Regular_Fit_V_neck_woman-variant-3",
+                    "name": "XL",
+                    "axis": [
+                        "t_shirt_size_xl"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_xl": "T-shirt size XL"
+                    },
+                    "price": {
+                        "current": 2749,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Regular_Fit_V_neck_woman-variant-4": {
+                    "code": "Regular_Fit_V_neck_woman-variant-4",
+                    "name": "XXL",
+                    "axis": [
+                        "t_shirt_size_xxl"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_xxl": "T-shirt size XXL"
+                    },
+                    "price": {
+                        "current": 3057,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                }
+            },
+            "attributes": [],
+            "associations": {
+                "similar_products": [
+                    {
+                        "code": "Basic_regular_woman",
+                        "name": "Basic regular woman",
+                        "slug": "basic-regular-woman",
+                        "channelCode": "FASHION_WEB",
+                        "description": "Voluptatem in recusandae at consequatur voluptates consequuntur pariatur accusantium. Ad voluptas explicabo consequuntur corrupti aut iusto. Autem vel sit necessitatibus sequi incidunt.\n\nReprehenderit aliquam doloribus harum occaecati quia non illum. Non eos iusto laudantium repellendus quod ducimus. Consequatur error sed rerum sed dignissimos sunt molestiae. Deleniti aliquid cumque accusamus dolor minus laudantium doloribus.\n\nDeserunt inventore rerum fugit ullam. Est itaque accusantium quod eius quod impedit. Voluptatem enim aperiam asperiores nulla. Voluptatem aut consequatur non commodi maxime ratione.",
+                        "shortDescription": "Consectetur ratione architecto provident ducimus numquam eum. Dolorem labore est laborum ea. Est quia non dolore ratione.",
+                        "averageRating": 3,
+                        "taxons": {
+                            "main": "womens_t_shirts",
+                            "others": [
+                                "t_shirts",
+                                "womens_t_shirts"
+                            ]
+                        },
+                        "variants": {
+                            "Basic_regular_woman-variant-0": {
+                                "code": "Basic_regular_woman-variant-0",
+                                "name": "S",
+                                "axis": [
+                                    "t_shirt_size_s"
+                                ],
+                                "nameAxis": {
+                                    "t_shirt_size_s": "T-shirt size S"
+                                },
+                                "price": {
+                                    "current": 6670,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            },
+                            "Basic_regular_woman-variant-1": {
+                                "code": "Basic_regular_woman-variant-1",
+                                "name": "M",
+                                "axis": [
+                                    "t_shirt_size_m"
+                                ],
+                                "nameAxis": {
+                                    "t_shirt_size_m": "T-shirt size M"
+                                },
+                                "price": {
+                                    "current": 8378,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            },
+                            "Basic_regular_woman-variant-2": {
+                                "code": "Basic_regular_woman-variant-2",
+                                "name": "L",
+                                "axis": [
+                                    "t_shirt_size_l"
+                                ],
+                                "nameAxis": {
+                                    "t_shirt_size_l": "T-shirt size L"
+                                },
+                                "price": {
+                                    "current": 8962,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            },
+                            "Basic_regular_woman-variant-3": {
+                                "code": "Basic_regular_woman-variant-3",
+                                "name": "XL",
+                                "axis": [
+                                    "t_shirt_size_xl"
+                                ],
+                                "nameAxis": {
+                                    "t_shirt_size_xl": "T-shirt size XL"
+                                },
+                                "price": {
+                                    "current": 7044,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            },
+                            "Basic_regular_woman-variant-4": {
+                                "code": "Basic_regular_woman-variant-4",
+                                "name": "XXL",
+                                "axis": [
+                                    "t_shirt_size_xxl"
+                                ],
+                                "nameAxis": {
+                                    "t_shirt_size_xxl": "T-shirt size XXL"
+                                },
+                                "price": {
+                                    "current": 5044,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            }
+                        },
+                        "attributes": [],
+                        "associations": [],
+                        "images": [
+                            {
+                                "code": "main",
+                                "path": "41/63/276124e84cd11f247255012ce6c2.jpeg",
+                                "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/41/63/276124e84cd11f247255012ce6c2.jpeg"
+                            }
+                        ],
+                        "_links": {
+                            "self": {
+                                "href": "/shop-api/products/by-slug/basic-regular-woman"
+                            }
+                        }
+                    },
+                    {
+                        "code": "Slim_fit_woman",
+                        "name": "Slim fit woman",
+                        "slug": "slim-fit-woman",
+                        "channelCode": "FASHION_WEB",
+                        "description": "Illum at numquam illo est nobis dicta porro. Sint id minus temporibus et quae. Cum ut provident blanditiis saepe culpa.\n\nSimilique quos assumenda cumque illo. Molestias sed corporis amet soluta dolorem blanditiis ipsam. Qui placeat laboriosam eos ut earum. Molestiae sunt voluptas consequuntur.\n\nOdit commodi sunt nihil occaecati. Sunt qui et totam explicabo architecto rerum dignissimos. Tempore nostrum accusantium eaque cupiditate. Delectus fugiat incidunt culpa nihil dolor. Accusamus et tempore minima est qui.",
+                        "shortDescription": "Recusandae reprehenderit doloremque est et. Perferendis excepturi enim inventore voluptatem. Qui occaecati officiis omnis harum.",
+                        "averageRating": 0,
+                        "taxons": {
+                            "main": "womens_t_shirts",
+                            "others": [
+                                "t_shirts",
+                                "womens_t_shirts"
+                            ]
+                        },
+                        "variants": {
+                            "Slim_fit_woman-variant-0": {
+                                "code": "Slim_fit_woman-variant-0",
+                                "name": "S",
+                                "axis": [
+                                    "t_shirt_size_s"
+                                ],
+                                "nameAxis": {
+                                    "t_shirt_size_s": "T-shirt size S"
+                                },
+                                "price": {
+                                    "current": 2349,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            },
+                            "Slim_fit_woman-variant-1": {
+                                "code": "Slim_fit_woman-variant-1",
+                                "name": "M",
+                                "axis": [
+                                    "t_shirt_size_m"
+                                ],
+                                "nameAxis": {
+                                    "t_shirt_size_m": "T-shirt size M"
+                                },
+                                "price": {
+                                    "current": 209,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            },
+                            "Slim_fit_woman-variant-2": {
+                                "code": "Slim_fit_woman-variant-2",
+                                "name": "L",
+                                "axis": [
+                                    "t_shirt_size_l"
+                                ],
+                                "nameAxis": {
+                                    "t_shirt_size_l": "T-shirt size L"
+                                },
+                                "price": {
+                                    "current": 9189,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            },
+                            "Slim_fit_woman-variant-3": {
+                                "code": "Slim_fit_woman-variant-3",
+                                "name": "XL",
+                                "axis": [
+                                    "t_shirt_size_xl"
+                                ],
+                                "nameAxis": {
+                                    "t_shirt_size_xl": "T-shirt size XL"
+                                },
+                                "price": {
+                                    "current": 3418,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            },
+                            "Slim_fit_woman-variant-4": {
+                                "code": "Slim_fit_woman-variant-4",
+                                "name": "XXL",
+                                "axis": [
+                                    "t_shirt_size_xxl"
+                                ],
+                                "nameAxis": {
+                                    "t_shirt_size_xxl": "T-shirt size XXL"
+                                },
+                                "price": {
+                                    "current": 8015,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            }
+                        },
+                        "attributes": [],
+                        "associations": [],
+                        "images": [
+                            {
+                                "code": "main",
+                                "path": "e7/a6/9a6f81322221eb59afd3fc87afaa.jpeg",
+                                "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/e7/a6/9a6f81322221eb59afd3fc87afaa.jpeg"
+                            }
+                        ],
+                        "_links": {
+                            "self": {
+                                "href": "/shop-api/products/by-slug/slim-fit-woman"
+                            }
+                        }
+                    }
+                ]
+            },
+            "images": [
+                {
+                    "code": "main",
+                    "path": "5c/58/69132382899c7ac847762d7ffa7e.jpeg",
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/5c/58/69132382899c7ac847762d7ffa7e.jpeg"
+                }
+            ],
+            "_links": {
+                "self": {
+                    "href": "/shop-api/products/by-slug/regular-fit-v-neck-woman"
+                }
+            }
+        },
+        {
+            "code": "Sleeveless_Dress",
+            "name": "Sleeveless Dress",
+            "slug": "sleeveless-dress",
+            "channelCode": "FASHION_WEB",
+            "description": "Dolore dolores repudiandae reprehenderit. Sed ab et cumque consequatur. Unde id accusamus nihil iusto sint natus. Perspiciatis voluptas voluptates similique.\n\nVelit vitae explicabo rerum doloremque sit commodi vitae dolor. Facilis nostrum consequatur consequatur asperiores et. Harum quod dolores laborum quas quos qui ut qui. Unde eligendi officia modi molestias ipsum illum neque.\n\nDolor autem maiores ducimus placeat nam. Et aut mollitia ut veritatis possimus qui iusto sunt. Sint fuga rerum nesciunt illo. Iusto reiciendis nihil ut voluptatem.",
+            "shortDescription": "Earum molestiae distinctio enim sint. Suscipit impedit consectetur vitae voluptates. Est minima necessitatibus nihil voluptatem.",
+            "averageRating": 0,
+            "taxons": {
+                "main": "dresses",
+                "others": [
+                    "dresses"
+                ]
+            },
+            "variants": {
+                "Sleeveless_Dress-variant-0": {
+                    "code": "Sleeveless_Dress-variant-0",
+                    "name": "S Petite",
+                    "axis": [
+                        "dress_s",
+                        "dress_height_petite"
+                    ],
+                    "nameAxis": {
+                        "dress_s": "Dress size S",
+                        "dress_height_petite": "Dress height Petite"
+                    },
+                    "price": {
+                        "current": 8602,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Sleeveless_Dress-variant-1": {
+                    "code": "Sleeveless_Dress-variant-1",
+                    "name": "S Regular",
+                    "axis": [
+                        "dress_s",
+                        "dress_height_regular"
+                    ],
+                    "nameAxis": {
+                        "dress_s": "Dress size S",
+                        "dress_height_regular": "Dress height Regular"
+                    },
+                    "price": {
+                        "current": 1568,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Sleeveless_Dress-variant-2": {
+                    "code": "Sleeveless_Dress-variant-2",
+                    "name": "S Tall",
+                    "axis": [
+                        "dress_s",
+                        "dress_height_tall"
+                    ],
+                    "nameAxis": {
+                        "dress_s": "Dress size S",
+                        "dress_height_tall": "Dress height Tall"
+                    },
+                    "price": {
+                        "current": 6660,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Sleeveless_Dress-variant-3": {
+                    "code": "Sleeveless_Dress-variant-3",
+                    "name": "M Petite",
+                    "axis": [
+                        "dress_m",
+                        "dress_height_petite"
+                    ],
+                    "nameAxis": {
+                        "dress_m": "Dress size M",
+                        "dress_height_petite": "Dress height Petite"
+                    },
+                    "price": {
+                        "current": 6825,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Sleeveless_Dress-variant-4": {
+                    "code": "Sleeveless_Dress-variant-4",
+                    "name": "M Regular",
+                    "axis": [
+                        "dress_m",
+                        "dress_height_regular"
+                    ],
+                    "nameAxis": {
+                        "dress_m": "Dress size M",
+                        "dress_height_regular": "Dress height Regular"
+                    },
+                    "price": {
+                        "current": 7539,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Sleeveless_Dress-variant-5": {
+                    "code": "Sleeveless_Dress-variant-5",
+                    "name": "M Tall",
+                    "axis": [
+                        "dress_m",
+                        "dress_height_tall"
+                    ],
+                    "nameAxis": {
+                        "dress_m": "Dress size M",
+                        "dress_height_tall": "Dress height Tall"
+                    },
+                    "price": {
+                        "current": 418,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Sleeveless_Dress-variant-6": {
+                    "code": "Sleeveless_Dress-variant-6",
+                    "name": "L Petite",
+                    "axis": [
+                        "dress_l",
+                        "dress_height_petite"
+                    ],
+                    "nameAxis": {
+                        "dress_l": "Dress size L",
+                        "dress_height_petite": "Dress height Petite"
+                    },
+                    "price": {
+                        "current": 822,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Sleeveless_Dress-variant-7": {
+                    "code": "Sleeveless_Dress-variant-7",
+                    "name": "L Regular",
+                    "axis": [
+                        "dress_l",
+                        "dress_height_regular"
+                    ],
+                    "nameAxis": {
+                        "dress_l": "Dress size L",
+                        "dress_height_regular": "Dress height Regular"
+                    },
+                    "price": {
+                        "current": 1518,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Sleeveless_Dress-variant-8": {
+                    "code": "Sleeveless_Dress-variant-8",
+                    "name": "L Tall",
+                    "axis": [
+                        "dress_l",
+                        "dress_height_tall"
+                    ],
+                    "nameAxis": {
+                        "dress_l": "Dress size L",
+                        "dress_height_tall": "Dress height Tall"
+                    },
+                    "price": {
+                        "current": 1259,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Sleeveless_Dress-variant-9": {
+                    "code": "Sleeveless_Dress-variant-9",
+                    "name": "XL Petite",
+                    "axis": [
+                        "dress_xl",
+                        "dress_height_petite"
+                    ],
+                    "nameAxis": {
+                        "dress_xl": "Dress size XL",
+                        "dress_height_petite": "Dress height Petite"
+                    },
+                    "price": {
+                        "current": 5895,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Sleeveless_Dress-variant-10": {
+                    "code": "Sleeveless_Dress-variant-10",
+                    "name": "XL Regular",
+                    "axis": [
+                        "dress_xl",
+                        "dress_height_regular"
+                    ],
+                    "nameAxis": {
+                        "dress_xl": "Dress size XL",
+                        "dress_height_regular": "Dress height Regular"
+                    },
+                    "price": {
+                        "current": 331,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Sleeveless_Dress-variant-11": {
+                    "code": "Sleeveless_Dress-variant-11",
+                    "name": "XL Tall",
+                    "axis": [
+                        "dress_xl",
+                        "dress_height_tall"
+                    ],
+                    "nameAxis": {
+                        "dress_xl": "Dress size XL",
+                        "dress_height_tall": "Dress height Tall"
+                    },
+                    "price": {
+                        "current": 2277,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Sleeveless_Dress-variant-12": {
+                    "code": "Sleeveless_Dress-variant-12",
+                    "name": "XXL Petite",
+                    "axis": [
+                        "dress_xxl",
+                        "dress_height_petite"
+                    ],
+                    "nameAxis": {
+                        "dress_xxl": "Dress size XXL",
+                        "dress_height_petite": "Dress height Petite"
+                    },
+                    "price": {
+                        "current": 4953,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Sleeveless_Dress-variant-13": {
+                    "code": "Sleeveless_Dress-variant-13",
+                    "name": "XXL Regular",
+                    "axis": [
+                        "dress_xxl",
+                        "dress_height_regular"
+                    ],
+                    "nameAxis": {
+                        "dress_xxl": "Dress size XXL",
+                        "dress_height_regular": "Dress height Regular"
+                    },
+                    "price": {
+                        "current": 9471,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Sleeveless_Dress-variant-14": {
+                    "code": "Sleeveless_Dress-variant-14",
+                    "name": "XXL Tall",
+                    "axis": [
+                        "dress_xxl",
+                        "dress_height_tall"
+                    ],
+                    "nameAxis": {
+                        "dress_xxl": "Dress size XXL",
+                        "dress_height_tall": "Dress height Tall"
+                    },
+                    "price": {
+                        "current": 6463,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                }
+            },
+            "attributes": [],
+            "associations": [],
+            "images": [
+                {
+                    "code": "main",
+                    "path": "f6/d0/a2a918c2470d044b9fd38cf204bd.jpeg",
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/f6/d0/a2a918c2470d044b9fd38cf204bd.jpeg"
+                }
+            ],
+            "_links": {
+                "self": {
+                    "href": "/shop-api/products/by-slug/sleeveless-dress"
+                }
+            }
+        },
+        {
+            "code": "Circle_skirt_Dress",
+            "name": "Circle-skirt Dress",
+            "slug": "circle-skirt-dress",
+            "channelCode": "FASHION_WEB",
+            "description": "Eos voluptas nihil cum odit nulla eius dolor. Reprehenderit error sequi recusandae quaerat ea. Aut vero quos doloremque soluta. Est eum sunt possimus.\n\nEum perspiciatis quis iure. Dicta molestias omnis sed eligendi enim sint est. Fugiat autem consequatur eum nihil assumenda.\n\nCumque alias quae cupiditate cumque id. Ut eos iste inventore nam. Unde reiciendis saepe doloribus nesciunt. Quas nihil veniam non perspiciatis qui nesciunt rerum a.",
+            "shortDescription": "Rerum ex minus officia voluptates praesentium itaque. Odio et dolores rerum iusto nemo voluptatem enim. Quia rerum quia enim quo culpa. Temporibus voluptas atque omnis doloremque.",
+            "averageRating": 2,
+            "taxons": {
+                "main": "dresses",
+                "others": [
+                    "dresses"
+                ]
+            },
+            "variants": {
+                "Circle_skirt_Dress-variant-0": {
+                    "code": "Circle_skirt_Dress-variant-0",
+                    "name": "S Petite",
+                    "axis": [
+                        "dress_s",
+                        "dress_height_petite"
+                    ],
+                    "nameAxis": {
+                        "dress_s": "Dress size S",
+                        "dress_height_petite": "Dress height Petite"
+                    },
+                    "price": {
+                        "current": 2620,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Circle_skirt_Dress-variant-1": {
+                    "code": "Circle_skirt_Dress-variant-1",
+                    "name": "S Regular",
+                    "axis": [
+                        "dress_s",
+                        "dress_height_regular"
+                    ],
+                    "nameAxis": {
+                        "dress_s": "Dress size S",
+                        "dress_height_regular": "Dress height Regular"
+                    },
+                    "price": {
+                        "current": 9359,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Circle_skirt_Dress-variant-2": {
+                    "code": "Circle_skirt_Dress-variant-2",
+                    "name": "S Tall",
+                    "axis": [
+                        "dress_s",
+                        "dress_height_tall"
+                    ],
+                    "nameAxis": {
+                        "dress_s": "Dress size S",
+                        "dress_height_tall": "Dress height Tall"
+                    },
+                    "price": {
+                        "current": 8323,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Circle_skirt_Dress-variant-3": {
+                    "code": "Circle_skirt_Dress-variant-3",
+                    "name": "M Petite",
+                    "axis": [
+                        "dress_m",
+                        "dress_height_petite"
+                    ],
+                    "nameAxis": {
+                        "dress_m": "Dress size M",
+                        "dress_height_petite": "Dress height Petite"
+                    },
+                    "price": {
+                        "current": 7606,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Circle_skirt_Dress-variant-4": {
+                    "code": "Circle_skirt_Dress-variant-4",
+                    "name": "M Regular",
+                    "axis": [
+                        "dress_m",
+                        "dress_height_regular"
+                    ],
+                    "nameAxis": {
+                        "dress_m": "Dress size M",
+                        "dress_height_regular": "Dress height Regular"
+                    },
+                    "price": {
+                        "current": 9218,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Circle_skirt_Dress-variant-5": {
+                    "code": "Circle_skirt_Dress-variant-5",
+                    "name": "M Tall",
+                    "axis": [
+                        "dress_m",
+                        "dress_height_tall"
+                    ],
+                    "nameAxis": {
+                        "dress_m": "Dress size M",
+                        "dress_height_tall": "Dress height Tall"
+                    },
+                    "price": {
+                        "current": 4254,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Circle_skirt_Dress-variant-6": {
+                    "code": "Circle_skirt_Dress-variant-6",
+                    "name": "L Petite",
+                    "axis": [
+                        "dress_l",
+                        "dress_height_petite"
+                    ],
+                    "nameAxis": {
+                        "dress_l": "Dress size L",
+                        "dress_height_petite": "Dress height Petite"
+                    },
+                    "price": {
+                        "current": 9012,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Circle_skirt_Dress-variant-7": {
+                    "code": "Circle_skirt_Dress-variant-7",
+                    "name": "L Regular",
+                    "axis": [
+                        "dress_l",
+                        "dress_height_regular"
+                    ],
+                    "nameAxis": {
+                        "dress_l": "Dress size L",
+                        "dress_height_regular": "Dress height Regular"
+                    },
+                    "price": {
+                        "current": 2144,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Circle_skirt_Dress-variant-8": {
+                    "code": "Circle_skirt_Dress-variant-8",
+                    "name": "L Tall",
+                    "axis": [
+                        "dress_l",
+                        "dress_height_tall"
+                    ],
+                    "nameAxis": {
+                        "dress_l": "Dress size L",
+                        "dress_height_tall": "Dress height Tall"
+                    },
+                    "price": {
+                        "current": 9939,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Circle_skirt_Dress-variant-9": {
+                    "code": "Circle_skirt_Dress-variant-9",
+                    "name": "XL Petite",
+                    "axis": [
+                        "dress_xl",
+                        "dress_height_petite"
+                    ],
+                    "nameAxis": {
+                        "dress_xl": "Dress size XL",
+                        "dress_height_petite": "Dress height Petite"
+                    },
+                    "price": {
+                        "current": 4676,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Circle_skirt_Dress-variant-10": {
+                    "code": "Circle_skirt_Dress-variant-10",
+                    "name": "XL Regular",
+                    "axis": [
+                        "dress_xl",
+                        "dress_height_regular"
+                    ],
+                    "nameAxis": {
+                        "dress_xl": "Dress size XL",
+                        "dress_height_regular": "Dress height Regular"
+                    },
+                    "price": {
+                        "current": 1069,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Circle_skirt_Dress-variant-11": {
+                    "code": "Circle_skirt_Dress-variant-11",
+                    "name": "XL Tall",
+                    "axis": [
+                        "dress_xl",
+                        "dress_height_tall"
+                    ],
+                    "nameAxis": {
+                        "dress_xl": "Dress size XL",
+                        "dress_height_tall": "Dress height Tall"
+                    },
+                    "price": {
+                        "current": 4170,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Circle_skirt_Dress-variant-12": {
+                    "code": "Circle_skirt_Dress-variant-12",
+                    "name": "XXL Petite",
+                    "axis": [
+                        "dress_xxl",
+                        "dress_height_petite"
+                    ],
+                    "nameAxis": {
+                        "dress_xxl": "Dress size XXL",
+                        "dress_height_petite": "Dress height Petite"
+                    },
+                    "price": {
+                        "current": 3540,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Circle_skirt_Dress-variant-13": {
+                    "code": "Circle_skirt_Dress-variant-13",
+                    "name": "XXL Regular",
+                    "axis": [
+                        "dress_xxl",
+                        "dress_height_regular"
+                    ],
+                    "nameAxis": {
+                        "dress_xxl": "Dress size XXL",
+                        "dress_height_regular": "Dress height Regular"
+                    },
+                    "price": {
+                        "current": 4168,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Circle_skirt_Dress-variant-14": {
+                    "code": "Circle_skirt_Dress-variant-14",
+                    "name": "XXL Tall",
+                    "axis": [
+                        "dress_xxl",
+                        "dress_height_tall"
+                    ],
+                    "nameAxis": {
+                        "dress_xxl": "Dress size XXL",
+                        "dress_height_tall": "Dress height Tall"
+                    },
+                    "price": {
+                        "current": 9625,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                }
+            },
+            "attributes": [],
+            "associations": [],
+            "images": [
+                {
+                    "code": "main",
+                    "path": "01/66/725b460f9a649ef1e0bdeb9b96ac.jpeg",
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/01/66/725b460f9a649ef1e0bdeb9b96ac.jpeg"
+                }
+            ],
+            "_links": {
+                "self": {
+                    "href": "/shop-api/products/by-slug/circle-skirt-dress"
+                }
+            }
+        },
+        {
+            "code": "Ultra_slim",
+            "name": "Ultra slim",
+            "slug": "ultra-slim",
+            "channelCode": "FASHION_WEB",
+            "description": "Atque ut fugiat fuga mollitia pariatur eligendi. Eos quasi qui error quibusdam ut quia. Voluptates minus velit ut. Animi consequuntur ut officia libero est dolor.\n\nEos ut quaerat est repudiandae sed. Autem est qui quia recusandae. Ipsam quia deserunt quas repellat voluptas laudantium voluptatem deleniti. Ab sunt atque consequuntur molestiae maxime.\n\nVeritatis corporis quos repellat iusto nihil corrupti nihil explicabo. Explicabo eos id veniam excepturi qui reprehenderit qui architecto. Officiis qui quidem exercitationem ipsum qui quia enim neque.",
+            "shortDescription": "Blanditiis consequatur veritatis quae veniam sed itaque. Quas quas provident laborum rerum vitae. Sequi sunt rerum consequatur quas et.",
+            "averageRating": 3,
+            "taxons": {
+                "main": "womens_jeans",
+                "others": [
+                    "jeans",
+                    "womens_jeans"
+                ]
+            },
+            "variants": {
+                "Ultra_slim-variant-0": {
+                    "code": "Ultra_slim-variant-0",
+                    "name": "S",
+                    "axis": [
+                        "jeans_size_s"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_s": "Jeans size S"
+                    },
+                    "price": {
+                        "current": 7228,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Ultra_slim-variant-1": {
+                    "code": "Ultra_slim-variant-1",
+                    "name": "M",
+                    "axis": [
+                        "jeans_size_m"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_m": "Jeans size M"
+                    },
+                    "price": {
+                        "current": 7521,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Ultra_slim-variant-2": {
+                    "code": "Ultra_slim-variant-2",
+                    "name": "L",
+                    "axis": [
+                        "jeans_size_l"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_l": "Jeans size L"
+                    },
+                    "price": {
+                        "current": 8208,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Ultra_slim-variant-3": {
+                    "code": "Ultra_slim-variant-3",
+                    "name": "XL",
+                    "axis": [
+                        "jeans_size_xl"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_xl": "Jeans size XL"
+                    },
+                    "price": {
+                        "current": 2081,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Ultra_slim-variant-4": {
+                    "code": "Ultra_slim-variant-4",
+                    "name": "XXL",
+                    "axis": [
+                        "jeans_size_xxl"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_xxl": "Jeans size XXL"
+                    },
+                    "price": {
+                        "current": 2495,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                }
+            },
+            "attributes": [],
+            "associations": [],
+            "images": [
+                {
+                    "code": "main",
+                    "path": "d7/a1/0c874d27ecf53da47c2bda1e9c1a.jpeg",
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/d7/a1/0c874d27ecf53da47c2bda1e9c1a.jpeg"
+                }
+            ],
+            "_links": {
+                "self": {
+                    "href": "/shop-api/products/by-slug/ultra-slim"
+                }
+            }
+        },
+        {
+            "code": "Regular_cap_with_big_pompon",
+            "name": "Regular cap with big pompon",
+            "slug": "regular-cap-with-big-pompon",
+            "channelCode": "FASHION_WEB",
+            "description": "Veniam corporis repellat natus ea. Recusandae quam vel officia hic veniam rerum similique. Quae et porro cupiditate minus culpa totam.\n\nEst praesentium omnis et sed culpa aliquam. Laborum quod voluptas sunt minus facilis voluptatem reiciendis. Quibusdam quaerat aspernatur ut architecto. Quos consequatur recusandae eius quo omnis minus aliquid harum.\n\nNulla aliquam rerum iure dolores in. Rerum omnis est blanditiis. Mollitia repudiandae qui aut et amet.",
+            "shortDescription": "In debitis quia ad nisi. Est sit fugiat distinctio maxime. Numquam rerum placeat ipsa excepturi quia voluptatem dicta. Rerum et et laboriosam.",
+            "averageRating": 0,
+            "taxons": {
+                "main": "caps_with_pompons",
+                "others": [
+                    "caps",
+                    "caps_with_pompons"
+                ]
+            },
+            "variants": {
+                "Regular_cap_with_big_pompon-variant-0": {
+                    "code": "Regular_cap_with_big_pompon-variant-0",
+                    "name": "",
+                    "axis": [],
+                    "nameAxis": {},
+                    "price": {
+                        "current": 5472,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                }
+            },
+            "attributes": [],
+            "associations": {
+                "similar_products": [
+                    {
+                        "code": "Basic_winter_hot_cap",
+                        "name": "Basic winter hot cap",
+                        "slug": "basic-winter-hot-cap",
+                        "channelCode": "FASHION_WEB",
+                        "description": "Illo quia fuga aut nihil quo ipsum. Cum ratione iure non aut in. Facilis numquam quam rem quae sit aut.\n\nUt et soluta quae quia facilis facilis. Autem totam cum reprehenderit id at itaque sapiente quam. Tempora totam consectetur quod aut. Laudantium molestiae consequuntur temporibus repellendus tenetur ut est itaque.\n\nRatione eos omnis similique. Modi aliquid iste a nemo natus. Et fuga architecto dicta culpa possimus. Quo nemo ex omnis provident.",
+                        "shortDescription": "Consequuntur qui dignissimos itaque voluptas earum. Sapiente eos eveniet consequatur non minima culpa quam excepturi. Sapiente suscipit ex nostrum voluptas.",
+                        "averageRating": 0,
+                        "taxons": {
+                            "main": "caps_with_pompons",
+                            "others": [
+                                "caps",
+                                "caps_with_pompons"
+                            ]
+                        },
+                        "variants": {
+                            "Basic_winter_hot_cap-variant-0": {
+                                "code": "Basic_winter_hot_cap-variant-0",
+                                "name": "",
+                                "axis": [],
+                                "nameAxis": {},
+                                "price": {
+                                    "current": 8762,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            }
+                        },
+                        "attributes": [],
+                        "associations": [],
+                        "images": [
+                            {
+                                "code": "main",
+                                "path": "8d/21/ee59f346ae34b433d2bb21be7022.jpeg",
+                                "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/8d/21/ee59f346ae34b433d2bb21be7022.jpeg"
+                            }
+                        ],
+                        "_links": {
+                            "self": {
+                                "href": "/shop-api/products/by-slug/basic-winter-hot-cap"
+                            }
+                        }
+                    },
+                    {
+                        "code": "Regular_cap_with_big_pompon",
+                        "name": "Regular cap with big pompon",
+                        "slug": "regular-cap-with-big-pompon",
+                        "channelCode": "FASHION_WEB",
+                        "description": "Veniam corporis repellat natus ea. Recusandae quam vel officia hic veniam rerum similique. Quae et porro cupiditate minus culpa totam.\n\nEst praesentium omnis et sed culpa aliquam. Laborum quod voluptas sunt minus facilis voluptatem reiciendis. Quibusdam quaerat aspernatur ut architecto. Quos consequatur recusandae eius quo omnis minus aliquid harum.\n\nNulla aliquam rerum iure dolores in. Rerum omnis est blanditiis. Mollitia repudiandae qui aut et amet.",
+                        "shortDescription": "In debitis quia ad nisi. Est sit fugiat distinctio maxime. Numquam rerum placeat ipsa excepturi quia voluptatem dicta. Rerum et et laboriosam.",
+                        "averageRating": 0,
+                        "taxons": {
+                            "main": "caps_with_pompons",
+                            "others": [
+                                "caps",
+                                "caps_with_pompons"
+                            ]
+                        },
+                        "variants": {
+                            "Regular_cap_with_big_pompon-variant-0": {
+                                "code": "Regular_cap_with_big_pompon-variant-0",
+                                "name": "",
+                                "axis": [],
+                                "nameAxis": {},
+                                "price": {
+                                    "current": 5472,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            }
+                        },
+                        "attributes": [],
+                        "associations": [],
+                        "images": [
+                            {
+                                "code": "main",
+                                "path": "36/6c/62a1175604f2bbe472fbca9811b2.jpeg",
+                                "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/36/6c/62a1175604f2bbe472fbca9811b2.jpeg"
+                            }
+                        ],
+                        "_links": {
+                            "self": {
+                                "href": "/shop-api/products/by-slug/regular-cap-with-big-pompon"
+                            }
+                        }
+                    }
+                ]
+            },
+            "images": [
+                {
+                    "code": "main",
+                    "path": "36/6c/62a1175604f2bbe472fbca9811b2.jpeg",
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/36/6c/62a1175604f2bbe472fbca9811b2.jpeg"
+                }
+            ],
+            "_links": {
+                "self": {
+                    "href": "/shop-api/products/by-slug/regular-cap-with-big-pompon"
+                }
+            }
+        },
+        {
+            "code": "Basic_regular",
+            "name": "Basic regular oupa",
+            "slug": "basic-regular",
+            "channelCode": "FASHION_WEB",
+            "description": "Fugiat rerum dolores ipsa dolor. Qui ipsa dignissimos esse accusantium dolor. Impedit voluptas commodi qui voluptatem aperiam.\r\n\r\nSoluta quibusdam voluptatem culpa dolores labore. Id nostrum harum esse enim voluptatem. Nostrum voluptas inventore quia deleniti perspiciatis id maxime.\r\n\r\nRatione nesciunt consequatur at ad. Facere numquam illum voluptas temporibus. Qui consequuntur iure est tenetur molestiae in.",
+            "shortDescription": "Facilis debitis distinctio quae. Ipsam non vel unde ab. Eaque itaque perspiciatis quis molestiae officia natus qui. Et soluta est quasi ut accusamus.",
+            "averageRating": 0,
+            "taxons": {
+                "main": "mens_jeans",
+                "others": [
+                    "jeans",
+                    "mens_jeans"
+                ]
+            },
+            "variants": {
+                "Basic_regular-variant-0": {
+                    "code": "Basic_regular-variant-0",
+                    "name": "S",
+                    "axis": [
+                        "jeans_size_s"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_s": "Jeans size S"
+                    },
+                    "price": {
+                        "current": 2728,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Basic_regular-variant-1": {
+                    "code": "Basic_regular-variant-1",
+                    "name": "M",
+                    "axis": [
+                        "jeans_size_m"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_m": "Jeans size M"
+                    },
+                    "price": {
+                        "current": 8958,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Basic_regular-variant-2": {
+                    "code": "Basic_regular-variant-2",
+                    "name": "L",
+                    "axis": [
+                        "jeans_size_l"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_l": "Jeans size L"
+                    },
+                    "price": {
+                        "current": 9734,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Basic_regular-variant-3": {
+                    "code": "Basic_regular-variant-3",
+                    "name": "XL",
+                    "axis": [
+                        "jeans_size_xl"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_xl": "Jeans size XL"
+                    },
+                    "price": {
+                        "current": 554,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Basic_regular-variant-4": {
+                    "code": "Basic_regular-variant-4",
+                    "name": "XXL",
+                    "axis": [
+                        "jeans_size_xxl"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_xxl": "Jeans size XXL"
+                    },
+                    "price": {
+                        "current": 1039,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                }
+            },
+            "attributes": [],
+            "associations": [],
+            "images": [
+                {
+                    "code": "main",
+                    "path": "ca/ff/97e16ac918493c876f2980335ab1.jpeg",
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/ca/ff/97e16ac918493c876f2980335ab1.jpeg"
+                }
+            ],
+            "_links": {
+                "self": {
+                    "href": "/shop-api/products/by-slug/basic-regular"
+                }
+            }
+        },
+        {
+            "code": "Slim_fit_V_neck_men",
+            "name": "Slim fit V-neck men",
+            "slug": "slim-fit-v-neck-men",
+            "channelCode": "FASHION_WEB",
+            "description": "Laudantium a et saepe voluptatem sit qui. Odit expedita hic porro ipsum. Repellat quia deserunt neque mollitia perferendis assumenda. Earum modi et tenetur culpa voluptatem provident vero. Dolor et incidunt et est et.\n\nIste hic quia nisi veniam. Eveniet exercitationem nostrum a officiis. Et sit sequi iure sit quas deserunt delectus. Distinctio praesentium voluptatem eos expedita. Consequatur illo natus et non non iste deleniti.\n\nCorrupti expedita eum vel facilis nihil voluptatem ea. Provident velit atque fugiat officia quaerat asperiores. Animi voluptate qui ad asperiores atque non rerum provident. At veritatis ea quia voluptas aut est.",
+            "shortDescription": "Sint optio vitae nesciunt quia. Quam sint ex autem id repellat earum. Ut impedit ducimus temporibus totam dolor provident ut. Beatae sint ratione aliquid velit recusandae.",
+            "averageRating": 0,
+            "taxons": {
+                "main": "mens_t_shirts",
+                "others": [
+                    "t_shirts",
+                    "mens_t_shirts"
+                ]
+            },
+            "variants": {
+                "Slim_fit_V_neck_men-variant-0": {
+                    "code": "Slim_fit_V_neck_men-variant-0",
+                    "name": "S",
+                    "axis": [
+                        "t_shirt_size_s"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_s": "T-shirt size S"
+                    },
+                    "price": {
+                        "current": 4814,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Slim_fit_V_neck_men-variant-1": {
+                    "code": "Slim_fit_V_neck_men-variant-1",
+                    "name": "M",
+                    "axis": [
+                        "t_shirt_size_m"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_m": "T-shirt size M"
+                    },
+                    "price": {
+                        "current": 4014,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Slim_fit_V_neck_men-variant-2": {
+                    "code": "Slim_fit_V_neck_men-variant-2",
+                    "name": "L",
+                    "axis": [
+                        "t_shirt_size_l"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_l": "T-shirt size L"
+                    },
+                    "price": {
+                        "current": 5635,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Slim_fit_V_neck_men-variant-3": {
+                    "code": "Slim_fit_V_neck_men-variant-3",
+                    "name": "XL",
+                    "axis": [
+                        "t_shirt_size_xl"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_xl": "T-shirt size XL"
+                    },
+                    "price": {
+                        "current": 546,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Slim_fit_V_neck_men-variant-4": {
+                    "code": "Slim_fit_V_neck_men-variant-4",
+                    "name": "XXL",
+                    "axis": [
+                        "t_shirt_size_xxl"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_xxl": "T-shirt size XXL"
+                    },
+                    "price": {
+                        "current": 372,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                }
+            },
+            "attributes": [],
+            "associations": [],
+            "images": [
+                {
+                    "code": "main",
+                    "path": "19/6a/3287459945b79d6562c812d33a3c.jpeg",
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/19/6a/3287459945b79d6562c812d33a3c.jpeg"
+                }
+            ],
+            "_links": {
+                "self": {
+                    "href": "/shop-api/products/by-slug/slim-fit-v-neck-men"
+                }
+            }
+        },
+        {
+            "code": "Whole_holes_classic",
+            "name": "Whole holes classic",
+            "slug": "whole-holes-classic",
+            "channelCode": "FASHION_WEB",
+            "description": "Sit eaque et tenetur nihil nostrum. Saepe neque iure modi dolorem. Qui quibusdam voluptatem qui necessitatibus est deserunt. Ducimus ut facilis odio.\n\nVoluptas autem minus dolor. Accusamus et nesciunt assumenda fuga culpa est natus. Sed et nam quod eos ratione. Autem qui soluta non quo qui cupiditate.\n\nOccaecati architecto mollitia non exercitationem consequuntur ut. Et at molestias soluta adipisci et. Officiis libero vero eveniet sed ad.",
+            "shortDescription": "Earum sit magni hic consequatur autem quibusdam dolorem ipsum. Quos molestiae distinctio aperiam exercitationem repudiandae. Omnis suscipit totam a deleniti ea autem. Optio culpa qui quaerat.",
+            "averageRating": 0,
+            "taxons": {
+                "main": "womens_jeans",
+                "others": [
+                    "jeans",
+                    "womens_jeans"
+                ]
+            },
+            "variants": {
+                "Whole_holes_classic-variant-0": {
+                    "code": "Whole_holes_classic-variant-0",
+                    "name": "S",
+                    "axis": [
+                        "jeans_size_s"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_s": "Jeans size S"
+                    },
+                    "price": {
+                        "current": 3201,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Whole_holes_classic-variant-1": {
+                    "code": "Whole_holes_classic-variant-1",
+                    "name": "M",
+                    "axis": [
+                        "jeans_size_m"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_m": "Jeans size M"
+                    },
+                    "price": {
+                        "current": 8691,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Whole_holes_classic-variant-2": {
+                    "code": "Whole_holes_classic-variant-2",
+                    "name": "L",
+                    "axis": [
+                        "jeans_size_l"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_l": "Jeans size L"
+                    },
+                    "price": {
+                        "current": 1117,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Whole_holes_classic-variant-3": {
+                    "code": "Whole_holes_classic-variant-3",
+                    "name": "XL",
+                    "axis": [
+                        "jeans_size_xl"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_xl": "Jeans size XL"
+                    },
+                    "price": {
+                        "current": 2505,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Whole_holes_classic-variant-4": {
+                    "code": "Whole_holes_classic-variant-4",
+                    "name": "XXL",
+                    "axis": [
+                        "jeans_size_xxl"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_xxl": "Jeans size XXL"
+                    },
+                    "price": {
+                        "current": 7607,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                }
+            },
+            "attributes": [],
+            "associations": [],
+            "images": [
+                {
+                    "code": "main",
+                    "path": "75/95/f9c7ff3d4cd8d56566811bd9e219.jpeg",
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/75/95/f9c7ff3d4cd8d56566811bd9e219.jpeg"
+                }
+            ],
+            "_links": {
+                "self": {
+                    "href": "/shop-api/products/by-slug/whole-holes-classic"
+                }
+            }
+        },
+        {
+            "code": "Basic_winter_hot_cap",
+            "name": "Basic winter hot cap",
+            "slug": "basic-winter-hot-cap",
+            "channelCode": "FASHION_WEB",
+            "description": "Illo quia fuga aut nihil quo ipsum. Cum ratione iure non aut in. Facilis numquam quam rem quae sit aut.\n\nUt et soluta quae quia facilis facilis. Autem totam cum reprehenderit id at itaque sapiente quam. Tempora totam consectetur quod aut. Laudantium molestiae consequuntur temporibus repellendus tenetur ut est itaque.\n\nRatione eos omnis similique. Modi aliquid iste a nemo natus. Et fuga architecto dicta culpa possimus. Quo nemo ex omnis provident.",
+            "shortDescription": "Consequuntur qui dignissimos itaque voluptas earum. Sapiente eos eveniet consequatur non minima culpa quam excepturi. Sapiente suscipit ex nostrum voluptas.",
+            "averageRating": 0,
+            "taxons": {
+                "main": "caps_with_pompons",
+                "others": [
+                    "caps",
+                    "caps_with_pompons"
+                ]
+            },
+            "variants": {
+                "Basic_winter_hot_cap-variant-0": {
+                    "code": "Basic_winter_hot_cap-variant-0",
+                    "name": "",
+                    "axis": [],
+                    "nameAxis": {},
+                    "price": {
+                        "current": 8762,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                }
+            },
+            "attributes": [],
+            "associations": [],
+            "images": [
+                {
+                    "code": "main",
+                    "path": "8d/21/ee59f346ae34b433d2bb21be7022.jpeg",
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/8d/21/ee59f346ae34b433d2bb21be7022.jpeg"
+                }
+            ],
+            "_links": {
+                "self": {
+                    "href": "/shop-api/products/by-slug/basic-winter-hot-cap"
+                }
+            }
+        },
+        {
+            "code": "New_age_regular",
+            "name": "New age regular",
+            "slug": "new-age-regular",
+            "channelCode": "FASHION_WEB",
+            "description": "Vel repellat et dolor et. Eius accusantium qui quos quis aut. Temporibus alias itaque modi molestiae quia distinctio.\n\nEa repellat autem mollitia aliquid voluptatibus autem neque eligendi. Voluptates qui facere eius omnis id. Voluptas molestias qui et rerum assumenda rem. Voluptatem delectus nam consequatur magnam.\n\nPerspiciatis sit magni sit totam. Sed est aperiam alias sequi porro consequuntur. Autem voluptatibus quibusdam enim autem. Enim nobis voluptatem qui distinctio voluptatem. Odio nisi id quos earum corporis.",
+            "shortDescription": "Corporis sunt eaque voluptatem qui. Voluptates dolores dolorum iste sed ut. In et dolore laboriosam explicabo similique ipsam.",
+            "averageRating": 3,
+            "taxons": {
+                "main": "womens_jeans",
+                "others": [
+                    "jeans",
+                    "womens_jeans"
+                ]
+            },
+            "variants": {
+                "New_age_regular-variant-0": {
+                    "code": "New_age_regular-variant-0",
+                    "name": "S",
+                    "axis": [
+                        "jeans_size_s"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_s": "Jeans size S"
+                    },
+                    "price": {
+                        "current": 3597,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "New_age_regular-variant-1": {
+                    "code": "New_age_regular-variant-1",
+                    "name": "M",
+                    "axis": [
+                        "jeans_size_m"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_m": "Jeans size M"
+                    },
+                    "price": {
+                        "current": 251,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "New_age_regular-variant-2": {
+                    "code": "New_age_regular-variant-2",
+                    "name": "L",
+                    "axis": [
+                        "jeans_size_l"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_l": "Jeans size L"
+                    },
+                    "price": {
+                        "current": 3687,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "New_age_regular-variant-3": {
+                    "code": "New_age_regular-variant-3",
+                    "name": "XL",
+                    "axis": [
+                        "jeans_size_xl"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_xl": "Jeans size XL"
+                    },
+                    "price": {
+                        "current": 356,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "New_age_regular-variant-4": {
+                    "code": "New_age_regular-variant-4",
+                    "name": "XXL",
+                    "axis": [
+                        "jeans_size_xxl"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_xxl": "Jeans size XXL"
+                    },
+                    "price": {
+                        "current": 5877,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                }
+            },
+            "attributes": [],
+            "associations": [],
+            "images": [
+                {
+                    "code": "main",
+                    "path": "0e/06/a771e3238896dcb99d13179ffd09.jpeg",
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/0e/06/a771e3238896dcb99d13179ffd09.jpeg"
+                }
+            ],
+            "_links": {
+                "self": {
+                    "href": "/shop-api/products/by-slug/new-age-regular"
+                }
+            }
+        },
+        {
+            "code": "Beautiful_cap_for_woman",
+            "name": "Beautiful cap for woman",
+            "slug": "beautiful-cap-for-woman",
+            "channelCode": "FASHION_WEB",
+            "description": "Nesciunt veniam sapiente reiciendis quia nobis. Dicta ea repudiandae sapiente corrupti. Eveniet esse assumenda earum ipsum.\n\nVoluptatem veniam quo et quis. Et quo dolorum ut ducimus voluptatem omnis. Id illo dolore ratione tenetur ab. Placeat voluptate at repellat molestiae accusamus tenetur earum sunt.\n\nQuibusdam eveniet vero aspernatur aut molestiae esse. Dolores incidunt doloremque sint esse. Autem aut recusandae non nobis expedita adipisci voluptatum. Itaque nihil vitae numquam vitae et facilis ipsam.",
+            "shortDescription": "Nihil impedit accusamus autem tenetur tempora non fugit. Consequatur molestiae magnam nostrum. Distinctio pariatur molestiae voluptatem consequatur officia.",
+            "averageRating": 4,
+            "taxons": {
+                "main": "simple_caps",
+                "others": [
+                    "caps",
+                    "simple_caps"
+                ]
+            },
+            "variants": {
+                "Beautiful_cap_for_woman-variant-0": {
+                    "code": "Beautiful_cap_for_woman-variant-0",
+                    "name": "",
+                    "axis": [],
+                    "nameAxis": {},
+                    "price": {
+                        "current": 4141,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                }
+            },
+            "attributes": [],
+            "associations": [],
+            "images": [
+                {
+                    "code": "main",
+                    "path": "c9/42/e4ed8f817ce1e4b291c88c2cd650.jpeg",
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/c9/42/e4ed8f817ce1e4b291c88c2cd650.jpeg"
+                }
+            ],
+            "_links": {
+                "self": {
+                    "href": "/shop-api/products/by-slug/beautiful-cap-for-woman"
+                }
+            }
+        },
+        {
+            "code": "Regular_Fit_casual",
+            "name": "Regular Fit casual",
+            "slug": "regular-fit-casual",
+            "channelCode": "FASHION_WEB",
+            "description": "Qui accusamus ab ipsa facilis ea neque nostrum. Omnis adipisci itaque exercitationem. Autem est odit voluptatem nam sunt iste molestias. Eos magni sed laborum ad consectetur delectus eligendi.\n\nUt eos aut praesentium est ea officiis dolorum. Ut officia molestiae veritatis illo laboriosam quos asperiores. Omnis inventore aut eos officiis repellat illo fugit.\n\nAt aut vero facilis autem. Quidem impedit fugit dolorem et. Distinctio facilis tempora beatae harum.",
+            "shortDescription": "Perferendis est est aut impedit totam eum. Totam ipsam in dolorum. Voluptatem omnis eos quo nihil repudiandae quidem. Earum et voluptatibus non aliquid neque.",
+            "averageRating": 2,
+            "taxons": {
+                "main": "mens_jeans",
+                "others": [
+                    "jeans",
+                    "mens_jeans"
+                ]
+            },
+            "variants": {
+                "Regular_Fit_casual-variant-0": {
+                    "code": "Regular_Fit_casual-variant-0",
+                    "name": "S",
+                    "axis": [
+                        "jeans_size_s"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_s": "Jeans size S"
+                    },
+                    "price": {
+                        "current": 3127,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Regular_Fit_casual-variant-1": {
+                    "code": "Regular_Fit_casual-variant-1",
+                    "name": "M",
+                    "axis": [
+                        "jeans_size_m"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_m": "Jeans size M"
+                    },
+                    "price": {
+                        "current": 1328,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Regular_Fit_casual-variant-2": {
+                    "code": "Regular_Fit_casual-variant-2",
+                    "name": "L",
+                    "axis": [
+                        "jeans_size_l"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_l": "Jeans size L"
+                    },
+                    "price": {
+                        "current": 3575,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Regular_Fit_casual-variant-3": {
+                    "code": "Regular_Fit_casual-variant-3",
+                    "name": "XL",
+                    "axis": [
+                        "jeans_size_xl"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_xl": "Jeans size XL"
+                    },
+                    "price": {
+                        "current": 8675,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Regular_Fit_casual-variant-4": {
+                    "code": "Regular_Fit_casual-variant-4",
+                    "name": "XXL",
+                    "axis": [
+                        "jeans_size_xxl"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_xxl": "Jeans size XXL"
+                    },
+                    "price": {
+                        "current": 4652,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                }
+            },
+            "attributes": [],
+            "associations": [],
+            "images": [
+                {
+                    "code": "main",
+                    "path": "4d/1f/0391b13a21f4b9354904a2e7b384.jpeg",
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/4d/1f/0391b13a21f4b9354904a2e7b384.jpeg"
+                }
+            ],
+            "_links": {
+                "self": {
+                    "href": "/shop-api/products/by-slug/regular-fit-casual"
+                }
+            }
+        },
+        {
+            "code": "Slim_fit_men",
+            "name": "Slim fit men",
+            "slug": "slim-fit-men",
+            "channelCode": "FASHION_WEB",
+            "description": "Qui et explicabo enim saepe. Quisquam aut consequatur et praesentium qui nihil voluptatem eos. Est temporibus nihil fugit.\n\nSint dolores qui ut quaerat ad. Consectetur eaque voluptas vel rerum omnis hic accusantium et. Ea molestiae occaecati totam quis maxime eos dolores. Accusantium quidem sit temporibus quod maiores.\n\nEt explicabo dolor et sed unde ea aut exercitationem. Voluptates qui eos ipsam assumenda aperiam maiores. Sint ut quae eum velit facere.",
+            "shortDescription": "Animi excepturi quam sint consectetur et. Cumque et aliquid dolor odit error blanditiis molestiae nemo. Et fugiat eum cupiditate laboriosam veritatis. Recusandae explicabo itaque et necessitatibus vero placeat ut.",
+            "averageRating": 0,
+            "taxons": {
+                "main": "mens_t_shirts",
+                "others": [
+                    "t_shirts",
+                    "mens_t_shirts"
+                ]
+            },
+            "variants": {
+                "Slim_fit_men-variant-0": {
+                    "code": "Slim_fit_men-variant-0",
+                    "name": "S",
+                    "axis": [
+                        "t_shirt_size_s"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_s": "T-shirt size S"
+                    },
+                    "price": {
+                        "current": 5270,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Slim_fit_men-variant-1": {
+                    "code": "Slim_fit_men-variant-1",
+                    "name": "M",
+                    "axis": [
+                        "t_shirt_size_m"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_m": "T-shirt size M"
+                    },
+                    "price": {
+                        "current": 5014,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Slim_fit_men-variant-2": {
+                    "code": "Slim_fit_men-variant-2",
+                    "name": "L",
+                    "axis": [
+                        "t_shirt_size_l"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_l": "T-shirt size L"
+                    },
+                    "price": {
+                        "current": 5198,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Slim_fit_men-variant-3": {
+                    "code": "Slim_fit_men-variant-3",
+                    "name": "XL",
+                    "axis": [
+                        "t_shirt_size_xl"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_xl": "T-shirt size XL"
+                    },
+                    "price": {
+                        "current": 2749,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Slim_fit_men-variant-4": {
+                    "code": "Slim_fit_men-variant-4",
+                    "name": "XXL",
+                    "axis": [
+                        "t_shirt_size_xxl"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_xxl": "T-shirt size XXL"
+                    },
+                    "price": {
+                        "current": 9661,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                }
+            },
+            "attributes": [],
+            "associations": [],
+            "images": [
+                {
+                    "code": "main",
+                    "path": "64/16/c3308ec5129ee67c99990a7c8c23.jpeg",
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/64/16/c3308ec5129ee67c99990a7c8c23.jpeg"
+                }
+            ],
+            "_links": {
+                "self": {
+                    "href": "/shop-api/products/by-slug/slim-fit-men"
+                }
+            }
+        },
+        {
+            "code": "Slim_fit_woman",
+            "name": "Slim fit woman",
+            "slug": "slim-fit-woman",
+            "channelCode": "FASHION_WEB",
+            "description": "Illum at numquam illo est nobis dicta porro. Sint id minus temporibus et quae. Cum ut provident blanditiis saepe culpa.\n\nSimilique quos assumenda cumque illo. Molestias sed corporis amet soluta dolorem blanditiis ipsam. Qui placeat laboriosam eos ut earum. Molestiae sunt voluptas consequuntur.\n\nOdit commodi sunt nihil occaecati. Sunt qui et totam explicabo architecto rerum dignissimos. Tempore nostrum accusantium eaque cupiditate. Delectus fugiat incidunt culpa nihil dolor. Accusamus et tempore minima est qui.",
+            "shortDescription": "Recusandae reprehenderit doloremque est et. Perferendis excepturi enim inventore voluptatem. Qui occaecati officiis omnis harum.",
+            "averageRating": 0,
+            "taxons": {
+                "main": "womens_t_shirts",
+                "others": [
+                    "t_shirts",
+                    "womens_t_shirts"
+                ]
+            },
+            "variants": {
+                "Slim_fit_woman-variant-0": {
+                    "code": "Slim_fit_woman-variant-0",
+                    "name": "S",
+                    "axis": [
+                        "t_shirt_size_s"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_s": "T-shirt size S"
+                    },
+                    "price": {
+                        "current": 2349,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Slim_fit_woman-variant-1": {
+                    "code": "Slim_fit_woman-variant-1",
+                    "name": "M",
+                    "axis": [
+                        "t_shirt_size_m"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_m": "T-shirt size M"
+                    },
+                    "price": {
+                        "current": 209,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Slim_fit_woman-variant-2": {
+                    "code": "Slim_fit_woman-variant-2",
+                    "name": "L",
+                    "axis": [
+                        "t_shirt_size_l"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_l": "T-shirt size L"
+                    },
+                    "price": {
+                        "current": 9189,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Slim_fit_woman-variant-3": {
+                    "code": "Slim_fit_woman-variant-3",
+                    "name": "XL",
+                    "axis": [
+                        "t_shirt_size_xl"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_xl": "T-shirt size XL"
+                    },
+                    "price": {
+                        "current": 3418,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Slim_fit_woman-variant-4": {
+                    "code": "Slim_fit_woman-variant-4",
+                    "name": "XXL",
+                    "axis": [
+                        "t_shirt_size_xxl"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_xxl": "T-shirt size XXL"
+                    },
+                    "price": {
+                        "current": 8015,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                }
+            },
+            "attributes": [],
+            "associations": [],
+            "images": [
+                {
+                    "code": "main",
+                    "path": "e7/a6/9a6f81322221eb59afd3fc87afaa.jpeg",
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/e7/a6/9a6f81322221eb59afd3fc87afaa.jpeg"
+                }
+            ],
+            "_links": {
+                "self": {
+                    "href": "/shop-api/products/by-slug/slim-fit-woman"
+                }
+            }
+        },
+        {
+            "code": "Basic_regular_woman",
+            "name": "Basic regular woman",
+            "slug": "basic-regular-woman",
+            "channelCode": "FASHION_WEB",
+            "description": "Voluptatem in recusandae at consequatur voluptates consequuntur pariatur accusantium. Ad voluptas explicabo consequuntur corrupti aut iusto. Autem vel sit necessitatibus sequi incidunt.\n\nReprehenderit aliquam doloribus harum occaecati quia non illum. Non eos iusto laudantium repellendus quod ducimus. Consequatur error sed rerum sed dignissimos sunt molestiae. Deleniti aliquid cumque accusamus dolor minus laudantium doloribus.\n\nDeserunt inventore rerum fugit ullam. Est itaque accusantium quod eius quod impedit. Voluptatem enim aperiam asperiores nulla. Voluptatem aut consequatur non commodi maxime ratione.",
+            "shortDescription": "Consectetur ratione architecto provident ducimus numquam eum. Dolorem labore est laborum ea. Est quia non dolore ratione.",
+            "averageRating": 3,
+            "taxons": {
+                "main": "womens_t_shirts",
+                "others": [
+                    "t_shirts",
+                    "womens_t_shirts"
+                ]
+            },
+            "variants": {
+                "Basic_regular_woman-variant-0": {
+                    "code": "Basic_regular_woman-variant-0",
+                    "name": "S",
+                    "axis": [
+                        "t_shirt_size_s"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_s": "T-shirt size S"
+                    },
+                    "price": {
+                        "current": 6670,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Basic_regular_woman-variant-1": {
+                    "code": "Basic_regular_woman-variant-1",
+                    "name": "M",
+                    "axis": [
+                        "t_shirt_size_m"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_m": "T-shirt size M"
+                    },
+                    "price": {
+                        "current": 8378,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Basic_regular_woman-variant-2": {
+                    "code": "Basic_regular_woman-variant-2",
+                    "name": "L",
+                    "axis": [
+                        "t_shirt_size_l"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_l": "T-shirt size L"
+                    },
+                    "price": {
+                        "current": 8962,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Basic_regular_woman-variant-3": {
+                    "code": "Basic_regular_woman-variant-3",
+                    "name": "XL",
+                    "axis": [
+                        "t_shirt_size_xl"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_xl": "T-shirt size XL"
+                    },
+                    "price": {
+                        "current": 7044,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Basic_regular_woman-variant-4": {
+                    "code": "Basic_regular_woman-variant-4",
+                    "name": "XXL",
+                    "axis": [
+                        "t_shirt_size_xxl"
+                    ],
+                    "nameAxis": {
+                        "t_shirt_size_xxl": "T-shirt size XXL"
+                    },
+                    "price": {
+                        "current": 5044,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                }
+            },
+            "attributes": [],
+            "associations": [],
+            "images": [
+                {
+                    "code": "main",
+                    "path": "41/63/276124e84cd11f247255012ce6c2.jpeg",
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/41/63/276124e84cd11f247255012ce6c2.jpeg"
+                }
+            ],
+            "_links": {
+                "self": {
+                    "href": "/shop-api/products/by-slug/basic-regular-woman"
+                }
+            }
+        },
+        {
+            "code": "Slim_fit_classic",
+            "name": "Slim fit classic",
+            "slug": "slim-fit-classic",
+            "channelCode": "FASHION_WEB",
+            "description": "Ullam ipsa molestias voluptas eveniet deleniti et quibusdam. Reiciendis et voluptatem dicta molestiae recusandae aliquam ut. Ut repellendus sequi quod delectus earum aut. Provident occaecati ut perferendis sit dolore nihil aliquam. Quia sequi est fugiat rerum sit laborum.\n\nSit dolor et omnis maiores et. Facere quisquam nemo quia similique aut. Aliquid ipsam ex nemo adipisci sit.\n\nQuos a voluptas voluptatem. Architecto dolores totam nam nesciunt. Magnam qui officia qui repellendus nemo reprehenderit.",
+            "shortDescription": "Nostrum porro doloremque consectetur excepturi aut temporibus officiis. Fuga et qui sed ipsa quas id. Ipsam blanditiis tempore voluptates dignissimos consequuntur. Dolorum beatae eaque et expedita est atque ratione occaecati.",
+            "averageRating": 2,
+            "taxons": {
+                "main": "mens_jeans",
+                "others": [
+                    "jeans",
+                    "mens_jeans"
+                ]
+            },
+            "variants": {
+                "Slim_fit_classic-variant-0": {
+                    "code": "Slim_fit_classic-variant-0",
+                    "name": "S",
+                    "axis": [
+                        "jeans_size_s"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_s": "Jeans size S"
+                    },
+                    "price": {
+                        "current": 7237,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Slim_fit_classic-variant-1": {
+                    "code": "Slim_fit_classic-variant-1",
+                    "name": "M",
+                    "axis": [
+                        "jeans_size_m"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_m": "Jeans size M"
+                    },
+                    "price": {
+                        "current": 573,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Slim_fit_classic-variant-2": {
+                    "code": "Slim_fit_classic-variant-2",
+                    "name": "L",
+                    "axis": [
+                        "jeans_size_l"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_l": "Jeans size L"
+                    },
+                    "price": {
+                        "current": 4609,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Slim_fit_classic-variant-3": {
+                    "code": "Slim_fit_classic-variant-3",
+                    "name": "XL",
+                    "axis": [
+                        "jeans_size_xl"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_xl": "Jeans size XL"
+                    },
+                    "price": {
+                        "current": 3022,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                },
+                "Slim_fit_classic-variant-4": {
+                    "code": "Slim_fit_classic-variant-4",
+                    "name": "XXL",
+                    "axis": [
+                        "jeans_size_xxl"
+                    ],
+                    "nameAxis": {
+                        "jeans_size_xxl": "Jeans size XXL"
+                    },
+                    "price": {
+                        "current": 6610,
+                        "currency": "EUR"
+                    },
+                    "images": []
+                }
+            },
+            "attributes": [],
+            "associations": {
+                "similar_products": [
+                    {
+                        "code": "Slim_fit_classic",
+                        "name": "Slim fit classic",
+                        "slug": "slim-fit-classic",
+                        "channelCode": "FASHION_WEB",
+                        "description": "Ullam ipsa molestias voluptas eveniet deleniti et quibusdam. Reiciendis et voluptatem dicta molestiae recusandae aliquam ut. Ut repellendus sequi quod delectus earum aut. Provident occaecati ut perferendis sit dolore nihil aliquam. Quia sequi est fugiat rerum sit laborum.\n\nSit dolor et omnis maiores et. Facere quisquam nemo quia similique aut. Aliquid ipsam ex nemo adipisci sit.\n\nQuos a voluptas voluptatem. Architecto dolores totam nam nesciunt. Magnam qui officia qui repellendus nemo reprehenderit.",
+                        "shortDescription": "Nostrum porro doloremque consectetur excepturi aut temporibus officiis. Fuga et qui sed ipsa quas id. Ipsam blanditiis tempore voluptates dignissimos consequuntur. Dolorum beatae eaque et expedita est atque ratione occaecati.",
+                        "averageRating": 2,
+                        "taxons": {
+                            "main": "mens_jeans",
+                            "others": [
+                                "jeans",
+                                "mens_jeans"
+                            ]
+                        },
+                        "variants": {
+                            "Slim_fit_classic-variant-0": {
+                                "code": "Slim_fit_classic-variant-0",
+                                "name": "S",
+                                "axis": [
+                                    "jeans_size_s"
+                                ],
+                                "nameAxis": {
+                                    "jeans_size_s": "Jeans size S"
+                                },
+                                "price": {
+                                    "current": 7237,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            },
+                            "Slim_fit_classic-variant-1": {
+                                "code": "Slim_fit_classic-variant-1",
+                                "name": "M",
+                                "axis": [
+                                    "jeans_size_m"
+                                ],
+                                "nameAxis": {
+                                    "jeans_size_m": "Jeans size M"
+                                },
+                                "price": {
+                                    "current": 573,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            },
+                            "Slim_fit_classic-variant-2": {
+                                "code": "Slim_fit_classic-variant-2",
+                                "name": "L",
+                                "axis": [
+                                    "jeans_size_l"
+                                ],
+                                "nameAxis": {
+                                    "jeans_size_l": "Jeans size L"
+                                },
+                                "price": {
+                                    "current": 4609,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            },
+                            "Slim_fit_classic-variant-3": {
+                                "code": "Slim_fit_classic-variant-3",
+                                "name": "XL",
+                                "axis": [
+                                    "jeans_size_xl"
+                                ],
+                                "nameAxis": {
+                                    "jeans_size_xl": "Jeans size XL"
+                                },
+                                "price": {
+                                    "current": 3022,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            },
+                            "Slim_fit_classic-variant-4": {
+                                "code": "Slim_fit_classic-variant-4",
+                                "name": "XXL",
+                                "axis": [
+                                    "jeans_size_xxl"
+                                ],
+                                "nameAxis": {
+                                    "jeans_size_xxl": "Jeans size XXL"
+                                },
+                                "price": {
+                                    "current": 6610,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            }
+                        },
+                        "attributes": [],
+                        "associations": [],
+                        "images": [
+                            {
+                                "code": "main",
+                                "path": "f5/f0/ab3401174ce36018b331dc310fd1.jpeg",
+                                "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/f5/f0/ab3401174ce36018b331dc310fd1.jpeg"
+                            }
+                        ],
+                        "_links": {
+                            "self": {
+                                "href": "/shop-api/products/by-slug/slim-fit-classic"
+                            }
+                        }
+                    },
+                    {
+                        "code": "Regular_Fit_casual",
+                        "name": "Regular Fit casual",
+                        "slug": "regular-fit-casual",
+                        "channelCode": "FASHION_WEB",
+                        "description": "Qui accusamus ab ipsa facilis ea neque nostrum. Omnis adipisci itaque exercitationem. Autem est odit voluptatem nam sunt iste molestias. Eos magni sed laborum ad consectetur delectus eligendi.\n\nUt eos aut praesentium est ea officiis dolorum. Ut officia molestiae veritatis illo laboriosam quos asperiores. Omnis inventore aut eos officiis repellat illo fugit.\n\nAt aut vero facilis autem. Quidem impedit fugit dolorem et. Distinctio facilis tempora beatae harum.",
+                        "shortDescription": "Perferendis est est aut impedit totam eum. Totam ipsam in dolorum. Voluptatem omnis eos quo nihil repudiandae quidem. Earum et voluptatibus non aliquid neque.",
+                        "averageRating": 2,
+                        "taxons": {
+                            "main": "mens_jeans",
+                            "others": [
+                                "jeans",
+                                "mens_jeans"
+                            ]
+                        },
+                        "variants": {
+                            "Regular_Fit_casual-variant-0": {
+                                "code": "Regular_Fit_casual-variant-0",
+                                "name": "S",
+                                "axis": [
+                                    "jeans_size_s"
+                                ],
+                                "nameAxis": {
+                                    "jeans_size_s": "Jeans size S"
+                                },
+                                "price": {
+                                    "current": 3127,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            },
+                            "Regular_Fit_casual-variant-1": {
+                                "code": "Regular_Fit_casual-variant-1",
+                                "name": "M",
+                                "axis": [
+                                    "jeans_size_m"
+                                ],
+                                "nameAxis": {
+                                    "jeans_size_m": "Jeans size M"
+                                },
+                                "price": {
+                                    "current": 1328,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            },
+                            "Regular_Fit_casual-variant-2": {
+                                "code": "Regular_Fit_casual-variant-2",
+                                "name": "L",
+                                "axis": [
+                                    "jeans_size_l"
+                                ],
+                                "nameAxis": {
+                                    "jeans_size_l": "Jeans size L"
+                                },
+                                "price": {
+                                    "current": 3575,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            },
+                            "Regular_Fit_casual-variant-3": {
+                                "code": "Regular_Fit_casual-variant-3",
+                                "name": "XL",
+                                "axis": [
+                                    "jeans_size_xl"
+                                ],
+                                "nameAxis": {
+                                    "jeans_size_xl": "Jeans size XL"
+                                },
+                                "price": {
+                                    "current": 8675,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            },
+                            "Regular_Fit_casual-variant-4": {
+                                "code": "Regular_Fit_casual-variant-4",
+                                "name": "XXL",
+                                "axis": [
+                                    "jeans_size_xxl"
+                                ],
+                                "nameAxis": {
+                                    "jeans_size_xxl": "Jeans size XXL"
+                                },
+                                "price": {
+                                    "current": 4652,
+                                    "currency": "EUR"
+                                },
+                                "images": []
+                            }
+                        },
+                        "attributes": [],
+                        "associations": [],
+                        "images": [
+                            {
+                                "code": "main",
+                                "path": "4d/1f/0391b13a21f4b9354904a2e7b384.jpeg",
+                                "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/4d/1f/0391b13a21f4b9354904a2e7b384.jpeg"
+                            }
+                        ],
+                        "_links": {
+                            "self": {
+                                "href": "/shop-api/products/by-slug/regular-fit-casual"
+                            }
+                        }
+                    }
+                ]
+            },
+            "images": [
+                {
+                    "code": "main",
+                    "path": "f5/f0/ab3401174ce36018b331dc310fd1.jpeg",
+                    "cachedPath": "http://192.168.240.6/media/cache/sylius_shop_api/f5/f0/ab3401174ce36018b331dc310fd1.jpeg"
+                }
+            ],
+            "_links": {
+                "self": {
+                    "href": "/shop-api/products/by-slug/slim-fit-classic"
                 }
             }
         }
