@@ -47,11 +47,11 @@ exports.sourceNodes = async ({
     }
   }
 
-  const adaptVariants = (variants) => {
-    return Object.values(variants).map(({name, price}) => {
+  const adaptVariants = variants => {
+    return Object.values(variants).map(({ name, price }) => {
       return {
         name: name,
-        price: price
+        price: price,
       }
     })
   }
@@ -66,7 +66,7 @@ exports.sourceNodes = async ({
       averageRating: originalProduct.averageRating,
       firstImage: originalProduct.images[0].cachedPath,
       variants: adaptVariants(originalProduct.variants),
-      taxons: originalProduct.taxons
+      taxons: originalProduct.taxons,
     }
   }
 
@@ -74,7 +74,7 @@ exports.sourceNodes = async ({
     const nodeContent = JSON.stringify(categoryData)
 
     const childrenIds = categoryData.children.map(categoryData => {
-      return createNodeFromCategory(categoryData, level+1)
+      return createNodeFromCategory(categoryData, level + 1)
     })
 
     const nodeMeta = {
@@ -87,7 +87,7 @@ exports.sourceNodes = async ({
         content: nodeContent,
         contentDigest: createContentDigest(categoryData),
       },
-      level
+      level,
     }
 
     const node = Object.assign({}, categoryData, nodeMeta)
