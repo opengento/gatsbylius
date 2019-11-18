@@ -55,6 +55,7 @@ exports.sourceNodes = async ({
       description: originalProduct.description,
       channelCode: originalProduct.channelCode,
       firstImage: originalProduct.images[0].cachedPath,
+      taxons: originalProduct.taxons,
     }
   }
 
@@ -103,22 +104,21 @@ exports.sourceNodes = async ({
   }
 
   await getAllCategoryData().then(({ children }) => {
-    children.forEach(originalCategoryData => {
+    return children.map(originalCategoryData => {
       const categoryData = adaptCategory(originalCategoryData)
-      createNodeFromCategory(categoryData)
+      return createNodeFromCategory(categoryData)
     })
   })
 
   // Data can come from anywhere, but for now create it manually
+
   await getAllProductsData().then(({ items }) => {
-    return getAllProductsData().then(({ items }) => {
-      return Promise.all(
-        items.map(originalProductData => {
-          const productData = adaptProduct(originalProductData)
-          return createNodeFromProduct(productData)
-        })
-      )
-    })
+    return Promise.all(
+      items.map(originalProductData => {
+        const productData = adaptProduct(originalProductData)
+        return createNodeFromProduct(productData)
+      })
+    )
   })
 }
 
@@ -145,6 +145,12 @@ exports.createPages = ({ graphql, actions }) => {
               id
               code
               slug
+              fields {
+                products {
+                  id
+                  name
+                }
+              }
             }
           }
         }
@@ -194,4 +200,24 @@ exports.createPages = ({ graphql, actions }) => {
       })
     })
   })
+}
+
+// For function createNodeField
+exports.onCreateNode = ({ node, getNode, createNodeId, actions }) => {
+  const { createNodeField } = actions
+
+  if (node.internal.type === "Product" && node.taxons) {
+    let categoryNode = getNode(createNodeId(`category-${node.taxons.main}`))
+
+    let categoryNodeValue = [node.id]
+    if (categoryNode.fields && categoryNode.fields.products___NODE) {
+      categoryNodeValue = [...categoryNode.fields.products___NODE, node.id]
+    }
+
+    createNodeField({
+      node: categoryNode,
+      name: "products___NODE",
+      value: categoryNodeValue,
+    })
+  }
 }

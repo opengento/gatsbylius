@@ -36,6 +36,12 @@ export const query = graphql`
           code
           slug
           name
+          fields {
+            products {
+              id
+              name
+            }
+          }
         }
       }
     }
