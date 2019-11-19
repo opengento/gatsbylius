@@ -3,5 +3,9 @@
  *
  * See: https://www.gatsbyjs.org/docs/browser-apis/
  */
+const Cart = require('./src/client/Cart');
 
-// You can delete this file if you're not using it
+exports.onInitialClientRender = () => {
+    console.log("ReactDOM.render has executed")
+    new Cart().init();
+}

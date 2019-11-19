@@ -116,10 +116,12 @@ exports.sourceNodes = async ({
   }
 
   await getAllCategoryData().then(({ children }) => {
-    return children.map(originalCategoryData => {
-      const categoryData = adaptCategory(originalCategoryData)
-      return createNodeFromCategory(categoryData)
+    return Promise.all(
+      children.map(originalCategoryData => {
+        const categoryData = adaptCategory(originalCategoryData)
+        return createNodeFromCategory(categoryData)
     })
+    )
   })
 
   // Data can come from anywhere, but for now create it manually
