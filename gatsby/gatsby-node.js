@@ -48,10 +48,11 @@ exports.sourceNodes = async ({
   }
 
   const adaptVariants = variants => {
-    return Object.values(variants).map(({ name, price }) => {
+    return Object.values(variants).map(({ name, price, code }) => {
       return {
         name: name,
         price: price,
+        code: code,
       }
     })
   }
@@ -120,7 +121,7 @@ exports.sourceNodes = async ({
       children.map(originalCategoryData => {
         const categoryData = adaptCategory(originalCategoryData)
         return createNodeFromCategory(categoryData)
-    })
+      })
     )
   })
 

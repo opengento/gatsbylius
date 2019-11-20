@@ -3,9 +3,8 @@
  *
  * See: https://www.gatsbyjs.org/docs/browser-apis/
  */
-const Cart = require('./src/client/Cart');
+const Cart = require("./src/client/Cart")
 
 exports.onInitialClientRender = () => {
-    console.log("ReactDOM.render has executed")
-    new Cart().init();
+  Cart.init()
 }
