@@ -1,6 +1,8 @@
 import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
+import MiniCart from "./MiniCart"
+import Cart from "./../client/Cart"
 
 const Header = ({ siteTitle, menuLinks }) => (
   <header
@@ -44,6 +46,7 @@ const Header = ({ siteTitle, menuLinks }) => (
         })}
       </ul>
       </nav>
+      <MiniCart items={Cart.getItems()} totals={Cart.getTotals()} currency={Cart.getCurrency()} />
     </div>
   </header>
 )
