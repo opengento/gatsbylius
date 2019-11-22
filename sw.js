@@ -27,20 +27,24 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-a8f9caa95cddb1d2f8fb.js"
+    "url": "webpack-runtime-409580e90c0cb4db6fe0.js"
   },
   {
     "url": "commons-644de32717a60ba02455.js"
   },
   {
-    "url": "app-04753ed1d1a4a7b412dd.js"
+    "url": "app-796b1207dc7aeeec4536.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-568c113b24a9e8ed8db8.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "9ce7c99696a0551491d78aaaca2ade06"
+    "revision": "fdcf09ed90cae189d5bccd12b8602246"
+  },
+  {
+    "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
+    "revision": "d274adf0f008ef152ce70a312b04b730"
   },
   {
     "url": "manifest.webmanifest",
@@ -132,12 +136,12 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   lastNavigationRequest = event.request.url
 
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^//gatsbylius`), ``)
+  pathname = pathname.replace(new RegExp(`^/gatsbylius`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`//gatsbylius/app-04753ed1d1a4a7b412dd.js`))) {
+  if (!resources || !(await caches.match(`/gatsbylius/app-796b1207dc7aeeec4536.js`))) {
     return await fetch(event.request)
   }
 
@@ -150,7 +154,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `//gatsbylius/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/gatsbylius/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
