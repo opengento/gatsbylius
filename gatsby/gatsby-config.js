@@ -8,16 +8,16 @@ module.exports = {
     title: `Gatsbylius`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `@gatsbyjs`,
-    menuLinks:[
+    menuLinks: [
       {
-        name:'home',
-        link:'/'
+        name: "home",
+        link: "/",
       },
       {
-        name:'page2',
-        link:'/page-2'
-      }
-    ]
+        name: "page2",
+        link: "/page-2",
+      },
+    ],
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -31,8 +31,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-remote-images`,
       options: {
-        nodeType: 'Product',
-        imagePath: 'firstImage',
+        nodeType: "Product",
+        imagePath: "firstImage",
       },
     },
     `gatsby-transformer-sharp`,
