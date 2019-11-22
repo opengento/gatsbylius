@@ -4,6 +4,7 @@ require("dotenv").config({
 
 module.exports = {
   pathPrefix: "/gatsbylius",
+  assetPrefix: "",
   siteMetadata: {
     title: `Gatsbylius`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
@@ -57,7 +58,7 @@ module.exports = {
       options: {
         name: `Gatsbylius`,
         short_name: `Gatsbylius`,
-        start_url: `/`,
+        start_url: `/gatsbylius/`,
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,
         display: `standalone`,
