@@ -64,7 +64,7 @@ const IndexPage = ({ data }) => {
       {contributors && (
         <section>
           <h2>Thanks!</h2>
-          <p>Thanks to all these contributors who worked on this project:</p>
+          <p>Thanks to all these contributors who worked on this project (<a href="https://github.com/opengento/gatsbylius">join us!</a>):</p>
           <ul
             style={{
               listStyle: "none",
