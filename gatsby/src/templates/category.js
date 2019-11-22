@@ -4,40 +4,58 @@ import Layout from "../components/layout"
 import Img from "gatsby-image"
 
 const Category = props => {
+  const category = props.data.category
+  const products = category.fields && category.fields.products
+  const subCategories = category.childrenCategory
+
   return (
     <Layout>
-      <h1>{props.data.category.name}</h1>
-      <p>Products</p>
-      <ul
-        style={{
-          listStyle: "none",
-          display: "flex",
-          flexWrap: "wrap",
-          justifyContent: "space-between",
-        }}
-      >
-        {props.data.category.fields &&
-          props.data.category.fields.products.map(product => {
-            return (
-              <li key={product.slug}>
-                <Link to={`product/${product.slug}`}>
-                  <Img fixed={product.localImage.childImageSharp.fixed} />{" "}
-                  <br />
-                  {product.name}
-                </Link>
-              </li>
-            )
-          })}
-      </ul>
-      <ul>
-        {props.data.allCategory.edges.map(({ node }) => {
-          return (
-            <li key={node.code}>
-              <Link to={`/categories/${node.code}`}>{node.name}</Link>
-            </li>
-          )
-        })}
-      </ul>
+      <h1>{category.name}</h1>
+
+      <p>{category.description}</p>
+
+      {subCategories && subCategories.length > 0 && (
+        <section>
+          <h2>Sub categories</h2>
+          <ul>
+            {subCategories.map(subCategory => {
+              return (
+                <li key={subCategory.code}>
+                  <Link to={`/categories/${subCategory.code}`}>
+                    {subCategory.name}
+                  </Link>
+                </li>
+              )
+            })}
+          </ul>
+        </section>
+      )}
+
+      {products && products.length > 0 && (
+        <section>
+          <h2>Products</h2>
+          <ul
+            style={{
+              listStyle: "none",
+              display: "flex",
+              flexWrap: "wrap",
+              justifyContent: "space-between",
+            }}
+          >
+            {products.map(product => {
+              return (
+                <li key={product.slug}>
+                  <Link to={`product/${product.slug}`}>
+                    <Img fixed={product.localImage.childImageSharp.fixed} />{" "}
+                    <br />
+                    {product.name}
+                  </Link>
+                </li>
+              )
+            })}
+          </ul>
+        </section>
+      )}
     </Layout>
   )
 }
@@ -50,6 +68,7 @@ export const query = graphql`
       code
       slug
       name
+      description
       fields {
         products {
           id
@@ -66,16 +85,11 @@ export const query = graphql`
           }
         }
       }
-    }
-
-    allCategory {
-      edges {
-        node {
-          id
-          code
-          slug
-          name
-        }
+      childrenCategory {
+        id
+        code
+        slug
+        name
       }
     }
   }
